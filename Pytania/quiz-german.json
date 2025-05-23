@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Wie sagt man 'Hallo' auf Deutsch?",
+    "a": "Hallo",
+    "b": "Tschüss",
+    "correct": "a"
+  },
+  {
+    "name": "Was bedeutet 'schnell'?",
+    "a": "Langsam",
+    "b": "Schnell",
+    "correct": "b"
+  },
+  {
+    "name": "Welcher Artikel passt zu 'Haus'?",
+    "a": "Das",
+    "b": "Die",
+    "correct": "a"
+  },
+  {
+    "name": "Wie sagt man 'Ich gehe zur Schule' im Präteritum?",
+    "a": "Ich gehe zur Schule",
+    "b": "Ich ging zur Schule",
+    "correct": "b"
+  },
+  {
+    "name": "Was ist das Gegenteil von 'groß'?",
+    "a": "Klein",
+    "b": "Hoch",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Verb passt: 'Ich ___ jeden Tag Sport.'?",
+    "a": "Mache",
+    "b": "Macht",
+    "correct": "b"
+  },
+  {
+    "name": "Wie heißt 'book' auf Deutsch?",
+    "a": "Buch",
+    "b": "Tisch",
+    "correct": "a"
+  },
+  {
+    "name": "Welche Präposition passt: 'Ich wohne ___ Berlin.'?",
+    "a": "Auf",
+    "b": "In",
+    "correct": "b"
+  },
+  {
+    "name": "Vervollständige den Satz: 'Wenn ich Zeit ___ , gehe ich ins Kino.'",
+    "a": "Habe",
+    "b": "Haben",
+    "correct": "a"
+  },
+  {
+    "name": "Was bedeutet 'Freund'?",
+    "a": "Feind",
+    "b": "Freund",
+    "correct": "b"
+  },
+  {
+    "name": "Welcher Satz ist korrekt?",
+    "a": "Ich bin gestern ins Kino gegangen.",
+    "b": "Ich bin gestern ins Kino gehe.",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Adjektiv passt: 'Das Wetter ist ___.'?",
+    "a": "Schön",
+    "b": "Schöner",
+    "correct": "b"
+  },
+  {
+    "name": "Was heißt 'to eat' auf Deutsch?",
+    "a": "Essen",
+    "b": "Trinken",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Verb passt: 'Sie ___ jeden Morgen früh auf.'?",
+    "a": "Stehe",
+    "b": "Steht",
+    "correct": "b"
+  },
+  {
+    "name": "Vervollständige den Satz: 'Ich ___ gestern Abend ferngesehen.'",
+    "a": "Habe",
+    "b": "Hat",
+    "correct": "a"
+  },
+  {
+    "name": "Was ist das Gegenteil von 'alt'?",
+    "a": "Groß",
+    "b": "Jung",
+    "correct": "b"
+  },
+  {
+    "name": "Welcher Satz ist im Perfekt?",
+    "a": "Ich habe ein Buch gelesen.",
+    "b": "Ich lese ein Buch.",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Wort passt: 'Er ___ im Park gelaufen.'?",
+    "a": "Ist",
+    "b": "Läuft",
+    "correct": "b"
+  },
+  {
+    "name": "Was bedeutet 'vielleicht'?",
+    "a": "Vielleicht",
+    "b": "Sicher",
+    "correct": "a"
+  },
+  {
+    "name": "Welche Präposition passt: 'Ich fahre ___ Auto zur Arbeit.'?",
+    "a": "Mit",
+    "b": "In",
+    "correct": "b"
+  },
+  {
+    "name": "Vervollständige den Satz: 'Sie ___ Deutsch sehr gut.'",
+    "a": "Spricht",
+    "b": "Sprechen",
+    "correct": "a"
+  },
+  {
+    "name": "Was heißt 'good' auf Deutsch?",
+    "a": "Schlecht",
+    "b": "Gut",
+    "correct": "b"
+  },
+  {
+    "name": "Welcher Satz ist im Futur?",
+    "a": "Ich werde morgen kommen.",
+    "b": "Ich komme morgen.",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Wort passt: 'Wir ___ noch nie in München gewesen.'?",
+    "a": "Sind",
+    "b": "Waren",
+    "correct": "b"
+  },
+  {
+    "name": "Was bedeutet 'oft'?",
+    "a": "Häufig",
+    "b": "Selten",
+    "correct": "a"
+  },
+  {
+    "name": "Welche Präposition passt: 'Ich lerne ___ 8 Uhr.'?",
+    "a": "Um",
+    "b": "In",
+    "correct": "b"
+  },
+  {
+    "name": "Vervollständige den Satz: 'Wenn es regnet, ___ ich zu Hause.'",
+    "a": "Bleibe",
+    "b": "Bleiben",
+    "correct": "a"
+  },
+  {
+    "name": "Was ist das Gegenteil von 'teuer'?",
+    "a": "Groß",
+    "b": "Billig",
+    "correct": "b"
+  },
+  {
+    "name": "Welcher Satz ist korrekt?",
+    "a": "Ich gehe jeden Tag zur Schule.",
+    "b": "Ich geht jeden Tag zur Schule.",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Wort passt: 'Sie ___ gestern Abend gekocht.'?",
+    "a": "Hat",
+    "b": "Kocht",
+    "correct": "b"
+  },
+  {
+    "name": "Was heißt 'house' auf Deutsch?",
+    "a": "Haus",
+    "b": "Wohnung",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Verb passt: 'Er ___ Fußball jeden Samstag.'?",
+    "a": "Spielt",
+    "b": "Spielen",
+    "correct": "b"
+  },
+  {
+    "name": "Vervollständige den Satz: 'Ich ___ das Buch schon gelesen.'",
+    "a": "Habe",
+    "b": "Hat",
+    "correct": "a"
+  },
+  {
+    "name": "Was bedeutet 'langsam'?",
+    "a": "Schnell",
+    "b": "Langsam",
+    "correct": "b"
+  },
+  {
+    "name": "Welcher Satz ist im Präsens?",
+    "a": "Ich gehe zur Arbeit.",
+    "b": "Ich ging zur Arbeit.",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Wort passt: 'Wir ___ gerade im Park.'?",
+    "a": "Sind",
+    "b": "Waren",
+    "correct": "b"
+  },
+  {
+    "name": "Was heißt 'to sleep' auf Deutsch?",
+    "a": "Schlafen",
+    "b": "Wachen",
+    "correct": "a"
+  },
+  {
+    "name": "Welche Präposition passt: 'Ich bin ___ Urlaub.'?",
+    "a": "Auf",
+    "b": "Im",
+    "correct": "b"
+  },
+  {
+    "name": "Vervollständige den Satz: 'Er ___ morgen nach Berlin fahren.'",
+    "a": "Wird",
+    "b": "Fährt",
+    "correct": "a"
+  },
+  {
+    "name": "Was ist das Gegenteil von 'hell'?",
+    "a": "Dunkel",
+    "b": "Klar",
+    "correct": "b"
+  },
+  {
+    "name": "Welcher Satz ist im Passiv?",
+    "a": "Das Buch wird gelesen.",
+    "b": "Ich lese das Buch.",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Wort passt: 'Das Essen ___ von meiner Mutter gekocht.'?",
+    "a": "Wurde",
+    "b": "Kocht",
+    "correct": "b"
+  },
+  {
+    "name": "Was bedeutet 'wichtig'?",
+    "a": "Wichtig",
+    "b": "Unwichtig",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Verb passt: 'Sie ___ jeden Tag zur Arbeit.'?",
+    "a": "Fährt",
+    "b": "Fahren",
+    "correct": "b"
+  },
+  {
+    "name": "Vervollständige den Satz: 'Ich ___ das Fenster öffnen.'",
+    "a": "Kann",
+    "b": "Muss",
+    "correct": "a"
+  },
+  {
+    "name": "Was heißt 'cold' auf Deutsch?",
+    "a": "Warm",
+    "b": "Kalt",
+    "correct": "b"
+  },
+  {
+    "name": "Welcher Satz ist korrekt?",
+    "a": "Ich habe seit zwei Jahren Deutsch gelernt.",
+    "b": "Ich lerne seit zwei Jahren Deutsch.",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Wort passt: 'Er ___ gestern krank.'?",
+    "a": "War",
+    "b": "Ist",
+    "correct": "b"
+  },
+  {
+    "name": "Was bedeutet 'glücklich'?",
+    "a": "Glücklich",
+    "b": "Traurig",
+    "correct": "a"
+  },
+  {
+    "name": "Welche Präposition passt: 'Ich warte ___ dich.'?",
+    "a": "Auf",
+    "b": "In",
+    "correct": "b"
+  },
+  {
+    "name": "Vervollständige den Satz: 'Wenn ich mehr Zeit ___ , würde ich reisen.'",
+    "a": "Hätte",
+    "b": "Habe",
+    "correct": "a"
+  },
+  {
+    "name": "Was ist das Gegenteil von 'leicht'?",
+    "a": "Schwer",
+    "b": "Einfach",
+    "correct": "b"
+  },
+  {
+    "name": "Welcher Satz ist im Konjunktiv II?",
+    "a": "Ich würde das machen.",
+    "b": "Ich mache das.",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Wort passt: 'Sie ___ das schon gewusst.'?",
+    "a": "Hat",
+    "b": "Weiß",
+    "correct": "b"
+  },
+  {
+    "name": "Was heißt 'to work' auf Deutsch?",
+    "a": "Arbeiten",
+    "b": "Spielen",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Verb passt: 'Wir ___ am Wochenende ins Kino.'?",
+    "a": "Gehen",
+    "b": "Geht",
+    "correct": "b"
+  },
+  {
+    "name": "Vervollständige den Satz: 'Ich ___ heute Morgen geduscht.'",
+    "a": "Habe",
+    "b": "Dusche",
+    "correct": "a"
+  },
+  {
+    "name": "Was bedeutet 'selten'?",
+    "a": "Oft",
+    "b": "Selten",
+    "correct": "b"
+  },
+  {
+    "name": "Welcher Satz ist korrekt?",
+    "a": "Ich bin sehr müde.",
+    "b": "Ich bin sehr müden.",
+    "correct": "a"
+  },
+  {
+    "name": "Welches Wort passt: 'Er ___ jeden Tag Zeitung.'?",
+    "a": "Liest",
+    "b": "Lesen",
+    "correct": "b"
+  }
+]

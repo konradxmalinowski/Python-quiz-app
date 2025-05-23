@@ -1,0 +1,362 @@
+[
+  {
+    "name": "What does 'IT' stand for?",
+    "a": "Information Technology",
+    "b": "Internet Tools",
+    "correct": "a"
+  },
+  {
+    "name": "Which device is used to type on a computer?",
+    "a": "Mouse",
+    "b": "Keyboard",
+    "correct": "b"
+  },
+  {
+    "name": "What is the main function of a CPU?",
+    "a": "Process data and instructions",
+    "b": "Store files",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is an operating system?",
+    "a": "Microsoft Word",
+    "b": "Windows",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'RAM' stand for?",
+    "a": "Random Access Memory",
+    "b": "Read Always Memory",
+    "correct": "a"
+  },
+  {
+    "name": "Which device displays output from a computer?",
+    "a": "Printer",
+    "b": "Monitor",
+    "correct": "b"
+  },
+  {
+    "name": "What is a common use of a hard drive?",
+    "a": "Store data long-term",
+    "b": "Connect to the internet",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a web browser?",
+    "a": "Google Chrome",
+    "b": "Microsoft Excel",
+    "correct": "b"
+  },
+  {
+    "name": "What is the purpose of an IP address?",
+    "a": "Identify a device on a network",
+    "b": "Store software",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a type of software?",
+    "a": "Keyboard",
+    "b": "Application",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'USB' stand for?",
+    "a": "Universal Serial Bus",
+    "b": "User System Backup",
+    "correct": "a"
+  },
+  {
+    "name": "Which device connects a computer to the internet?",
+    "a": "Monitor",
+    "b": "Router",
+    "correct": "b"
+  },
+  {
+    "name": "What is a common file format for documents?",
+    "a": "PDF",
+    "b": "JPG",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is used to click on a computer screen?",
+    "a": "Keyboard",
+    "b": "Mouse",
+    "correct": "b"
+  },
+  {
+    "name": "What is the main purpose of an operating system?",
+    "a": "Manage hardware and software",
+    "b": "Create documents",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a programming language?",
+    "a": "Python",
+    "b": "Windows",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'WWW' stand for?",
+    "a": "World Wide Web",
+    "b": "Wide Wireless Work",
+    "correct": "a"
+  },
+  {
+    "name": "Which device prints documents?",
+    "a": "Scanner",
+    "b": "Printer",
+    "correct": "b"
+  },
+  {
+    "name": "What is a network?",
+    "a": "A group of connected computers",
+    "b": "A type of software",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a storage device?",
+    "a": "Monitor",
+    "b": "Hard Drive",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'HTTP' stand for?",
+    "a": "HyperText Transfer Protocol",
+    "b": "High Tech Terminal Program",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is an input device?",
+    "a": "Speaker",
+    "b": "Keyboard",
+    "correct": "b"
+  },
+  {
+    "name": "What is the purpose of a firewall?",
+    "a": "Protect a computer from threats",
+    "b": "Increase internet speed",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a type of computer memory?",
+    "a": "RAM",
+    "b": "Mouse",
+    "correct": "b"
+  },
+  {
+    "name": "What does a modem do?",
+    "a": "Connects a computer to the internet",
+    "b": "Displays images",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is an email service?",
+    "a": "Photoshop",
+    "b": "Gmail",
+    "correct": "b"
+  },
+  {
+    "name": "What is a byte?",
+    "a": "A unit of digital information",
+    "b": "A type of cable",
+    "correct": "a"
+  },
+  {
+    "name": "Which device scans documents?",
+    "a": "Printer",
+    "b": "Scanner",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'LAN' stand for?",
+    "a": "Local Area Network",
+    "b": "Large Access Node",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is an output device?",
+    "a": "Monitor",
+    "b": "Keyboard",
+    "correct": "b"
+  },
+  {
+    "name": "What is the purpose of a backup?",
+    "a": "Save copies of data",
+    "b": "Speed up a computer",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a cloud storage service?",
+    "a": "Google Drive",
+    "b": "Microsoft Word",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'Wi-Fi' stand for?",
+    "a": "Wireless Fidelity",
+    "b": "Wired Function",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a type of virus protection?",
+    "a": "Excel",
+    "b": "Antivirus",
+    "correct": "b"
+  },
+  {
+    "name": "What is a common use of a spreadsheet?",
+    "a": "Organize and calculate data",
+    "b": "Browse the internet",
+    "correct": "a"
+  },
+  {
+    "name": "Which device connects multiple computers in a network?",
+    "a": "Mouse",
+    "b": "Switch",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'URL' stand for?",
+    "a": "Uniform Resource Locator",
+    "b": "User Request Link",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a video file format?",
+    "a": "MP4",
+    "b": "DOCX",
+    "correct": "b"
+  },
+  {
+    "name": "What is the purpose of a power supply?",
+    "a": "Provide electricity to a computer",
+    "b": "Store data",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a search engine?",
+    "a": "Google",
+    "b": "PowerPoint",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'SSD' stand for?",
+    "a": "Solid State Drive",
+    "b": "System Software Disk",
+    "correct": "a"
+  },
+  {
+    "name": "Which device is used to hear sound from a computer?",
+    "a": "Monitor",
+    "b": "Speakers",
+    "correct": "b"
+  },
+  {
+    "name": "What is a database?",
+    "a": "A system to organize and store data",
+    "b": "A type of internet connection",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a common image format?",
+    "a": "PNG",
+    "b": "TXT",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'DNS' stand for?",
+    "a": "Domain Name System",
+    "b": "Digital Network Service",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a type of computer?",
+    "a": "Laptop",
+    "b": "Printer",
+    "correct": "b"
+  },
+  {
+    "name": "What is the purpose of a password?",
+    "a": "Secure access to a system",
+    "b": "Increase internet speed",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a messaging app?",
+    "a": "Notepad",
+    "b": "WhatsApp",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'BIOS' stand for?",
+    "a": "Basic Input/Output System",
+    "b": "Binary Internet Operating System",
+    "correct": "a"
+  },
+  {
+    "name": "Which device connects a computer to a phone line?",
+    "a": "Router",
+    "b": "Modem",
+    "correct": "b"
+  },
+  {
+    "name": "What is a common use of a USB drive?",
+    "a": "Transfer and store files",
+    "b": "Display images",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a social media platform?",
+    "a": "Paint",
+    "b": "Facebook",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'GUI' stand for?",
+    "a": "Graphical User Interface",
+    "b": "General Utility Internet",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a type of malware?",
+    "a": "Virus",
+    "b": "Word",
+    "correct": "b"
+  },
+  {
+    "name": "What is the purpose of a browser?",
+    "a": "Access websites",
+    "b": "Edit photos",
+    "correct": "a"
+  },
+  {
+    "name": "Which device is used to input sound?",
+    "a": "Microphone",
+    "b": "Speaker",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'OS' stand for?",
+    "a": "Operating System",
+    "b": "Output Software",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is a wireless technology?",
+    "a": "Ethernet",
+    "b": "Bluetooth",
+    "correct": "b"
+  },
+  {
+    "name": "What is the main purpose of a graphics card?",
+    "a": "Process and display images",
+    "b": "Store programs",
+    "correct": "a"
+  },
+  {
+    "name": "Which of these is an office application?",
+    "a": "Excel",
+    "b": "Chrome",
+    "correct": "b"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Co to jest adres IP?",
+    "a": "Unikalny identyfikator urządzenia w sieci.",
+    "b": "Protokół komunikacyjny między urządzeniami.",
+    "correct": "a"
+  },
+  {
+    "name": "Który protokół służy do przesyłania stron internetowych?",
+    "a": "FTP",
+    "b": "HTTP",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest DHCP?",
+    "a": "Protokół dynamicznie przydzielający adresy IP.",
+    "b": "System zarządzania bazami danych w sieci.",
+    "correct": "a"
+  },
+  {
+    "name": "Które urządzenie łączy różne sieci komputerowe?",
+    "a": "Switch",
+    "b": "Router",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest maska podsieci?",
+    "a": "Parametr określający zakres adresów w sieci.",
+    "b": "Oprogramowanie do filtrowania ruchu sieciowego.",
+    "correct": "a"
+  },
+  {
+    "name": "Który port jest standardowo używany przez protokół SSH?",
+    "a": "80",
+    "b": "22",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest DNS?",
+    "a": "System tłumaczący nazwy domen na adresy IP.",
+    "b": "Protokół szyfrowania danych w sieci.",
+    "correct": "a"
+  },
+  {
+    "name": "Które urządzenie rozdziela sygnał sieciowy na wiele portów?",
+    "a": "Router",
+    "b": "Switch",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest VLAN?",
+    "a": "Wirtualna sieć lokalna w ramach jednej fizycznej sieci.",
+    "b": "Protokół zabezpieczający ruch sieciowy.",
+    "correct": "a"
+  },
+  {
+    "name": "Który system operacyjny jest najczęściej używany na serwerach?",
+    "a": "Windows",
+    "b": "Linux",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest RAID?",
+    "a": "Technologia zwiększająca niezawodność przechowywania danych.",
+    "b": "System szyfrowania dysków twardych.",
+    "correct": "a"
+  },
+  {
+    "name": "Które narzędzie służy do monitorowania ruchu sieciowego?",
+    "a": "Photoshop",
+    "b": "Wireshark",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest Active Directory?",
+    "a": "System zarządzania użytkownikami i zasobami w sieci Windows.",
+    "b": "Protokół komunikacyjny dla drukarek sieciowych.",
+    "correct": "a"
+  },
+  {
+    "name": "Który kabel sieciowy jest używany do połączeń Ethernet?",
+    "a": "USB",
+    "b": "Skrętka (UTP)",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest firewall?",
+    "a": "Oprogramowanie lub urządzenie filtrujące ruch sieciowy.",
+    "b": "System archiwizacji danych w sieci.",
+    "correct": "a"
+  },
+  {
+    "name": "Który protokół służy do przesyłania plików?",
+    "a": "HTTP",
+    "b": "FTP",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest adres MAC?",
+    "a": "Unikalny identyfikator karty sieciowej.",
+    "b": "Adres serwera w sieci lokalnej.",
+    "correct": "a"
+  },
+  {
+    "name": "Które narzędzie służy do konfiguracji sieci w systemach Linux?",
+    "a": "Paint",
+    "b": "ifconfig",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest serwer proxy?",
+    "a": "Urządzenie pośredniczące w komunikacji między klientem a serwerem.",
+    "b": "System zarządzania kopiami zapasowymi.",
+    "correct": "a"
+  },
+  {
+    "name": "Który port jest standardowo używany przez protokół HTTPS?",
+    "a": "80",
+    "b": "443",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest UPS?",
+    "a": "Zasilacz awaryjny chroniący sprzęt przed przerwami w dostawie prądu.",
+    "b": "Urządzenie do skanowania sieci.",
+    "correct": "a"
+  },
+  {
+    "name": "Które polecenie w systemie Windows wyświetla konfigurację sieci?",
+    "a": "dir",
+    "b": "ipconfig",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest NAT?",
+    "a": "Technologia translacji adresów sieciowych.",
+    "b": "Protokół szyfrowania danych w sieci.",
+    "correct": "a"
+  },
+  {
+    "name": "Który standard Wi-Fi jest najszybszy w 2025 roku?",
+    "a": "Wi-Fi 5",
+    "b": "Wi-Fi 6",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest backup?",
+    "a": "Kopia zapasowa danych w celu ich ochrony.",
+    "b": "System aktualizacji oprogramowania.",
+    "correct": "a"
+  },
+  {
+    "name": "Które urządzenie łączy sieć lokalną z Internetem?",
+    "a": "Switch",
+    "b": "Router",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest protokół TCP?",
+    "a": "Protokół zapewniający niezawodną transmisję danych.",
+    "b": "Protokół do szybkiego przesyłania plików.",
+    "correct": "a"
+  },
+  {
+    "name": "Które polecenie w Linuxie wyświetla informacje o systemie?",
+    "a": "cd",
+    "b": "uname",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest sieć LAN?",
+    "a": "Sieć lokalna ograniczona do jednego obszaru.",
+    "b": "Sieć globalna łącząca wiele lokalizacji.",
+    "correct": "a"
+  },
+  {
+    "name": "Które urządzenie jest używane do wzmacniania sygnału Wi-Fi?",
+    "a": "Router",
+    "b": "Repeater",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest BIOS?",
+    "a": "Podstawowy system wejścia/wyjścia w komputerze.",
+    "b": "Oprogramowanie do zarządzania siecią.",
+    "correct": "a"
+  },
+  {
+    "name": "Który protokół służy do wysyłania e-maili?",
+    "a": "HTTP",
+    "b": "SMTP",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest VPN?",
+    "a": "Wirtualna sieć prywatna zapewniająca bezpieczne połączenie.",
+    "b": "System zarządzania drukarkami w sieci.",
+    "correct": "a"
+  },
+  {
+    "name": "Które polecenie w Windowsie testuje łączność sieciową?",
+    "a": "dir",
+    "b": "ping",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest partycja dysku?",
+    "a": "Logiczny podział dysku na odrębne obszary.",
+    "b": "Fizyczne uszkodzenie dysku twardego.",
+    "correct": "a"
+  },
+  {
+    "name": "Które urządzenie peryferyjne wymaga sterowników?",
+    "a": "Monitor",
+    "b": "Drukarka",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest protokół UDP?",
+    "a": "Protokół szybkiej, ale mniej niezawodnej transmisji danych.",
+    "b": "Protokół do zarządzania użytkownikami w sieci.",
+    "correct": "a"
+  },
+  {
+    "name": "Które narzędzie w Linuxie zarządza użytkownikami?",
+    "a": "ls",
+    "b": "useradd",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest QoS w sieciach komputerowych?",
+    "a": "Mechanizm zarządzania jakością usług w sieci.",
+    "b": "System szyfrowania danych w transmisji.",
+    "correct": "a"
+  },
+  {
+    "name": "Który standard USB jest najszybszy w 2025 roku?",
+    "a": "USB 2.0",
+    "b": "USB 4.0",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest serwer NAS?",
+    "a": "Urządzenie do przechowywania danych w sieci.",
+    "b": "Serwer do hostowania stron internetowych.",
+    "correct": "a"
+  },
+  {
+    "name": "Które polecenie w Linuxie wyświetla zajętość dysku?",
+    "a": "cd",
+    "b": "df",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest protokół SNMP?",
+    "a": "Protokół do monitorowania urządzeń w sieci.",
+    "b": "Protokół do przesyłania multimediów.",
+    "correct": "a"
+  },
+  {
+    "name": "Które urządzenie zapewnia redundancję zasilania?",
+    "a": "Switch",
+    "b": "UPS",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest adres bramy domyślnej?",
+    "a": "Adres routera w sieci lokalnej.",
+    "b": "Adres serwera DNS.",
+    "correct": "a"
+  },
+  {
+    "name": "Które narzędzie służy do zdalnego zarządzania komputerem?",
+    "a": "Notepad",
+    "b": "Remote Desktop",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest sieć WAN?",
+    "a": "Sieć rozległa łącząca wiele lokalizacji.",
+    "b": "Sieć lokalna w jednym budynku.",
+    "correct": "a"
+  },
+  {
+    "name": "Który protokół służy do synchronizacji czasu?",
+    "a": "HTTP",
+    "b": "NTP",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest formatowanie dysku?",
+    "a": "Przygotowanie dysku do zapisu danych.",
+    "b": "Usuwanie wirusów z dysku.",
+    "correct": "a"
+  },
+  {
+    "name": "Które urządzenie peryferyjne jest wejściowe?",
+    "a": "Monitor",
+    "b": "Klawiatura",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest protokół ARP?",
+    "a": "Protokół mapujący adresy IP na adresy MAC.",
+    "b": "Protokół do szyfrowania połączeń.",
+    "correct": "a"
+  },
+  {
+    "name": "Które polecenie w Windowsie zamyka system?",
+    "a": "exit",
+    "b": "shutdown",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest defragmentacja dysku?",
+    "a": "Porządkowanie danych na dysku dla lepszej wydajności.",
+    "b": "Usuwanie zbędnych plików systemowych.",
+    "correct": "a"
+  },
+  {
+    "name": "Które narzędzie w Linuxie wyświetla procesy?",
+    "a": "dir",
+    "b": "top",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest protokół POP3?",
+    "a": "Protokół do pobierania e-maili z serwera.",
+    "b": "Protokół do przesyłania plików multimedialnych.",
+    "correct": "a"
+  },
+  {
+    "name": "Które urządzenie jest używane do skanowania dokumentów?",
+    "a": "Monitor",
+    "b": "Skaner",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest usługa DHCP?",
+    "a": "Usługa automatycznego przydzielania adresów IP.",
+    "b": "Usługa zarządzania drukarkami w sieci.",
+    "correct": "a"
+  },
+  {
+    "name": "Który standard kabla sieciowego obsługuje Gigabit Ethernet?",
+    "a": "Cat5",
+    "b": "Cat6",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest serwer plików?",
+    "a": "Urządzenie do współdzielenia plików w sieci.",
+    "b": "Oprogramowanie do tworzenia stron WWW.",
+    "correct": "a"
+  },
+  {
+    "name": "Które polecenie w Linuxie zmienia uprawnienia pliku?",
+    "a": "ls",
+    "b": "chmod",
+    "correct": "b"
+  }
+]

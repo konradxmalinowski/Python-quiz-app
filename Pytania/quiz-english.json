@@ -1,0 +1,362 @@
+[
+  {
+    "name": "What is the past participle of 'go'?",
+    "a": "Gone",
+    "b": "Went",
+    "correct": "a"
+  },
+  {
+    "name": "Which word means 'very tired'?",
+    "a": "Happy",
+    "b": "Exhausted",
+    "correct": "b"
+  },
+  {
+    "name": "Complete the sentence: 'If I ___ richer, I would travel more.'",
+    "a": "Were",
+    "b": "Am",
+    "correct": "a"
+  },
+  {
+    "name": "What is the opposite of 'cheap'?",
+    "a": "Big",
+    "b": "Expensive",
+    "correct": "b"
+  },
+  {
+    "name": "Which tense is used in this sentence: 'She has just finished her homework.'?",
+    "a": "Present Perfect",
+    "b": "Past Simple",
+    "correct": "a"
+  },
+  {
+    "name": "Choose the correct word: 'I ___ to the cinema last night.'",
+    "a": "Go",
+    "b": "Went",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'hope' mean?",
+    "a": "To want something to happen",
+    "b": "To forget something",
+    "correct": "a"
+  },
+  {
+    "name": "Which preposition fits here: 'She’s good ___ singing.'?",
+    "a": "In",
+    "b": "At",
+    "correct": "b"
+  },
+  {
+    "name": "Complete the sentence: 'He ___ his keys yesterday.'",
+    "a": "Lost",
+    "b": "Loses",
+    "correct": "a"
+  },
+  {
+    "name": "What is a synonym for 'happy'?",
+    "a": "Sad",
+    "b": "Cheerful",
+    "correct": "b"
+  },
+  {
+    "name": "Which sentence is correct?",
+    "a": "I have been here since three hours.",
+    "b": "I have been here for three hours.",
+    "correct": "a"
+  },
+  {
+    "name": "Choose the correct word: 'This book is ___ than that one.'",
+    "a": "More interesting",
+    "b": "Interesting",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'however' mean?",
+    "a": "But, in spite of that",
+    "b": "For example",
+    "correct": "a"
+  },
+  {
+    "name": "Which word fits here: 'She ___ to school every day.'?",
+    "a": "Walk",
+    "b": "Walks",
+    "correct": "b"
+  },
+  {
+    "name": "Complete the sentence: 'If it ___ tomorrow, we’ll stay home.'",
+    "a": "Rains",
+    "b": "Will rain",
+    "correct": "a"
+  },
+  {
+    "name": "What is the meaning of 'challenge'?",
+    "a": "Something easy",
+    "b": "Something difficult that tests your ability",
+    "correct": "b"
+  },
+  {
+    "name": "Which sentence uses the past continuous?",
+    "a": "She was reading a book when I arrived.",
+    "b": "She reads a book every evening.",
+    "correct": "a"
+  },
+  {
+    "name": "Choose the correct word: 'I ___ TV when the phone rang.'",
+    "a": "Watch",
+    "b": "Was watching",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'rarely' mean?",
+    "a": "Not often",
+    "b": "Always",
+    "correct": "a"
+  },
+  {
+    "name": "Which is the correct form: 'They ___ to the party last night.'?",
+    "a": "Didn’t go",
+    "b": "Don’t go",
+    "correct": "b"
+  },
+  {
+    "name": "Complete the sentence: 'She ___ play tennis very well.'",
+    "a": "Can",
+    "b": "Must",
+    "correct": "a"
+  },
+  {
+    "name": "What is a synonym for 'begin'?",
+    "a": "End",
+    "b": "Start",
+    "correct": "b"
+  },
+  {
+    "name": "Which sentence is in the future tense?",
+    "a": "I will call you tomorrow.",
+    "b": "I called you yesterday.",
+    "correct": "a"
+  },
+  {
+    "name": "Choose the correct word: 'He ___ his homework yet.'",
+    "a": "Hasn’t done",
+    "b": "Didn’t do",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'suddenly' mean?",
+    "a": "Happening quickly and unexpectedly",
+    "b": "Happening slowly",
+    "correct": "a"
+  },
+  {
+    "name": "Which preposition fits: 'I’m waiting ___ the bus.'?",
+    "a": "To",
+    "b": "For",
+    "correct": "b"
+  },
+  {
+    "name": "Complete the sentence: 'They ___ in London since 2010.'",
+    "a": "Have lived",
+    "b": "Lived",
+    "correct": "a"
+  },
+  {
+    "name": "What is the opposite of 'polite'?",
+    "a": "Friendly",
+    "b": "Rude",
+    "correct": "b"
+  },
+  {
+    "name": "Which sentence is correct?",
+    "a": "She doesn’t like coffee.",
+    "b": "She don’t like coffee.",
+    "correct": "a"
+  },
+  {
+    "name": "Choose the correct word: 'We ___ to the beach last summer.'",
+    "a": "Go",
+    "b": "Went",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'opportunity' mean?",
+    "a": "A chance to do something",
+    "b": "A problem",
+    "correct": "a"
+  },
+  {
+    "name": "Which word fits: 'I ___ tired after work yesterday.'?",
+    "a": "Am",
+    "b": "Was",
+    "correct": "b"
+  },
+  {
+    "name": "Complete the sentence: 'If I ___ you, I’d apologize.'",
+    "a": "Were",
+    "b": "Am",
+    "correct": "a"
+  },
+  {
+    "name": "What is a synonym for 'difficult'?",
+    "a": "Easy",
+    "b": "Hard",
+    "correct": "b"
+  },
+  {
+    "name": "Which sentence uses the present continuous?",
+    "a": "She is studying now.",
+    "b": "She studies every day.",
+    "correct": "a"
+  },
+  {
+    "name": "Choose the correct word: 'They ___ football at the moment.'",
+    "a": "Play",
+    "b": "Are playing",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'probably' mean?",
+    "a": "Likely to happen",
+    "b": "Definitely not happening",
+    "correct": "a"
+  },
+  {
+    "name": "Which is correct: 'He ___ to school every morning.'?",
+    "a": "Goes",
+    "b": "Go",
+    "correct": "b"
+  },
+  {
+    "name": "Complete the sentence: 'I ___ this movie before.'",
+    "a": "Have seen",
+    "b": "Saw",
+    "correct": "a"
+  },
+  {
+    "name": "What is the opposite of 'fast'?",
+    "a": "Quick",
+    "b": "Slow",
+    "correct": "b"
+  },
+  {
+    "name": "Which sentence is in the passive voice?",
+    "a": "The room was cleaned yesterday.",
+    "b": "She cleans the room every day.",
+    "correct": "a"
+  },
+  {
+    "name": "Choose the correct word: 'The cake ___ by my mom.'",
+    "a": "Made",
+    "b": "Was made",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'advice' mean?",
+    "a": "Suggestions about what to do",
+    "b": "A type of food",
+    "correct": "a"
+  },
+  {
+    "name": "Which preposition fits: 'He’s interested ___ history.'?",
+    "a": "On",
+    "b": "In",
+    "correct": "b"
+  },
+  {
+    "name": "Complete the sentence: 'You ___ wear a coat; it’s cold.'",
+    "a": "Should",
+    "b": "Can",
+    "correct": "a"
+  },
+  {
+    "name": "What is a synonym for 'beautiful'?",
+    "a": "Ugly",
+    "b": "Pretty",
+    "correct": "b"
+  },
+  {
+    "name": "Which sentence is correct?",
+    "a": "I’ve just finished my work.",
+    "b": "I just finish my work.",
+    "correct": "a"
+  },
+  {
+    "name": "Choose the correct word: 'She ___ a doctor last week.'",
+    "a": "Visits",
+    "b": "Visited",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'necessary' mean?",
+    "a": "Something you must have or do",
+    "b": "Something optional",
+    "correct": "a"
+  },
+  {
+    "name": "Which word fits: 'They ___ here since last month.'?",
+    "a": "Are",
+    "b": "Have been",
+    "correct": "b"
+  },
+  {
+    "name": "Complete the sentence: 'If he ___ harder, he’ll pass the exam.'",
+    "a": "Studies",
+    "b": "Will study",
+    "correct": "a"
+  },
+  {
+    "name": "What is the opposite of 'safe'?",
+    "a": "Dangerous",
+    "b": "Secure",
+    "correct": "b"
+  },
+  {
+    "name": "Which sentence uses reported speech?",
+    "a": "He said that he was tired.",
+    "b": "He says, 'I’m tired.'",
+    "correct": "a"
+  },
+  {
+    "name": "Choose the correct word: 'She told me that she ___ late.'",
+    "a": "Is",
+    "b": "Was",
+    "correct": "b"
+  },
+  {
+    "name": "What does 'improve' mean?",
+    "a": "To make something better",
+    "b": "To make something worse",
+    "correct": "a"
+  },
+  {
+    "name": "Which word fits: 'I ___ to music every evening.'?",
+    "a": "Listen",
+    "b": "Listens",
+    "correct": "b"
+  },
+  {
+    "name": "Complete the sentence: 'We ___ visit our grandparents tomorrow.'",
+    "a": "Will",
+    "b": "Would",
+    "correct": "a"
+  },
+  {
+    "name": "What is a synonym for 'tired'?",
+    "a": "Energetic",
+    "b": "Fatigued",
+    "correct": "b"
+  },
+  {
+    "name": "Which sentence is correct?",
+    "a": "They have lived here for five years.",
+    "b": "They live here for five years.",
+    "correct": "a"
+  },
+  {
+    "name": "Choose the correct word: 'He ___ his car last weekend.'",
+    "a": "Washes",
+    "b": "Washed",
+    "correct": "b"
+  }
+]

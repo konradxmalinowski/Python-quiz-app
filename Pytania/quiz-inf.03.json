@@ -1,0 +1,1568 @@
+[
+    {
+        "name": "What will `console.log(typeof null)` return?",
+        "a": "'null'",
+        "b": "'object'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the purpose of `use strict` in JavaScript?",
+        "a": "Enforces stricter parsing and error handling",
+        "b": "Enables modern JavaScript features",
+        "correct": "a"
+    },
+    {
+        "name": "Which method converts an array into a string?",
+        "a": "toString()",
+        "b": "join()",
+        "correct": "a"
+    },
+    {
+        "name": "What will `console.log(0.1 + 0.2 == 0.3)` return?",
+        "a": "true",
+        "b": "false",
+        "correct": "b"
+    },
+    {
+        "name": "What is the purpose of `Array.prototype.map()`?",
+        "a": "Transforms each element in an array and returns a new array",
+        "b": "Filters elements in an array",
+        "correct": "a"
+    },
+    {
+        "name": "What will `console.log(NaN === NaN)` return?",
+        "a": "false",
+        "b": "true",
+        "correct": "a"
+    },
+    {
+        "name": "What is the output of `console.log([] == false)`?",
+        "a": "true",
+        "b": "false",
+        "correct": "a"
+    },
+    {
+        "name": "What does the `bind()` method do in JavaScript?",
+        "a": "Creates a new function with a specific `this` context",
+        "b": "Immediately invokes a function with `this` context",
+        "correct": "a"
+    },
+    {
+        "name": "What is the output of `console.log(1 + '1' - 1)`?",
+        "a": "10",
+        "b": "11",
+        "correct": "a"
+    },
+    {
+        "name": "Which of the following is a valid way to define a function in JavaScript?",
+        "a": "function myFunction() {}",
+        "b": "def myFunction() {}",
+        "correct": "a"
+    },
+    {
+        "name": "What does the `setTimeout` function do in JavaScript?",
+        "a": "Executes a function after a specified delay",
+        "b": "Executes a function repeatedly at intervals",
+        "correct": "a"
+    },
+    {
+        "name": "What is the difference between `var`, `let`, and `const`?",
+        "a": "`var` is function-scoped, while `let` and `const` are block-scoped",
+        "b": "`const` allows reassignment, while `let` and `var` do not",
+        "correct": "a"
+    },
+    {
+        "name": "What will `console.log(typeof undefined)` return?",
+        "a": "'object'",
+        "b": "'undefined'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the purpose of the `throw` statement in JavaScript?",
+        "a": "To throw an error or exception",
+        "b": "To catch an error in a `try` block",
+        "correct": "a"
+    },
+    {
+        "name": "What is a closure in JavaScript?",
+        "a": "A function with access to its lexical scope even after the function has finished executing",
+        "b": "A function that is executed immediately",
+        "correct": "a"
+    },
+    {
+        "name": "What is the result of `console.log([1] + [2])`?",
+        "a": "'12'",
+        "b": "[1, 2]",
+        "correct": "a"
+    },
+    {
+        "name": "What does `Object.freeze()` do?",
+        "a": "Prevents modification of an object's properties",
+        "b": "Deletes all properties from an object",
+        "correct": "a"
+    },
+    {
+        "name": "What is the output of `console.log([] + {})`?",
+        "a": "'[object Object]'",
+        "b": "'undefined'",
+        "correct": "a"
+    },
+    {
+        "name": "What does `typeof NaN` return?",
+        "a": "'NaN'",
+        "b": "'number'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the purpose of the `new` keyword in JavaScript?",
+        "a": "Creates a new instance of an object",
+        "b": "Defines a new function",
+        "correct": "a"
+    },
+    {
+        "name": "What does `parseInt('12px')` return?",
+        "a": "12",
+        "b": "NaN",
+        "correct": "a"
+    },
+    {
+        "name": "Which method removes the first element of an array?",
+        "a": "pop()",
+        "b": "shift()",
+        "correct": "b"
+    },
+    {
+        "name": "What is the output of `console.log([1, 2, 3].slice(1, 2))`?",
+        "a": "[2]",
+        "b": "[1, 2]",
+        "correct": "a"
+    },
+    {
+        "name": "What is the purpose of `Promise.all()`?",
+        "a": "Waits for all promises to resolve or reject",
+        "b": "Returns the first resolved promise",
+        "correct": "a"
+    },
+    {
+        "name": "What does the `reduce()` method do?",
+        "a": "Reduces an array to a single value",
+        "b": "Filters elements from an array",
+        "correct": "a"
+    },
+    {
+        "name": "What will `console.log('5' - - '2')` return?",
+        "a": "3",
+        "b": "7",
+        "correct": "b"
+    },
+    {
+        "name": "What is the difference between `==` and `===` in JavaScript?",
+        "a": "`==` checks value equality, while `===` checks value and type equality",
+        "b": "`==` checks type equality, while `===` checks value equality",
+        "correct": "a"
+    },
+    {
+        "name": "What will `console.log(1 / 0)` return in JavaScript?",
+        "a": "Infinity",
+        "b": "NaN",
+        "correct": "a"
+    },
+    {
+        "name": "What is the output of `console.log(typeof [])`?",
+        "a": "'array'",
+        "b": "'object'",
+        "correct": "b"
+    },
+    {
+        "name": "What does the `pop()` method do?",
+        "a": "Removes the last element from an array",
+        "b": "Removes the first element from an array",
+        "correct": "a"
+    },
+    {
+        "name": "What will `console.log('2' * 3)` return?",
+        "a": "6",
+        "b": "'23'",
+        "correct": "a"
+    },
+    {
+        "name": "What does the `join()` method do in JavaScript?",
+        "a": "Joins all elements of an array into a string",
+        "b": "Adds elements to the end of an array",
+        "correct": "a"
+    },
+    {
+        "name": "What is the output of `console.log(2 + '2')`?",
+        "a": "'22'",
+        "b": "4",
+        "correct": "a"
+    },
+    {
+        "name": "What is the purpose of `use strict`?",
+        "a": "Enforces stricter parsing and error handling",
+        "b": "Enables ES6 features",
+        "correct": "a"
+    },
+    {
+        "name": "What is the result of `typeof null` in JavaScript?",
+        "a": "'object'",
+        "b": "'null'",
+        "correct": "a"
+    },
+    {
+        "name": "Which method can be used to create a shallow copy of an object?",
+        "a": "Object.assign()",
+        "b": "JSON.parse()",
+        "correct": "a"
+    },
+    {
+        "name": "What does `Math.random()` return?",
+        "a": "A random number between 0 and 1",
+        "b": "A random integer",
+        "correct": "a"
+    },
+    {
+        "name": "What will `console.log(true + 1)` return?",
+        "a": "true1",
+        "b": "2",
+        "correct": "b"
+    },
+    {
+        "name": "What is the purpose of `typeof`?",
+        "a": "To determine the type of a value",
+        "b": "To check if a value exists",
+        "correct": "a"
+    },
+    {
+        "name": "What is the output of `console.log([] == [])`?",
+        "a": "false",
+        "b": "true",
+        "correct": "a"
+    },
+    {
+        "name": "What is the purpose of `async` functions in JavaScript?",
+        "a": "To write asynchronous code more cleanly",
+        "b": "To execute synchronous code faster",
+        "correct": "a"
+    },
+    {
+        "name": "What is the output of `console.log(!false)`?",
+        "a": "false",
+        "b": "true",
+        "correct": "b"
+    },
+    {
+        "name": "What does the `push()` method do in JavaScript?",
+        "a": "Adds one or more elements to the end of an array",
+        "b": "Adds one or more elements to the beginning of an array",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log(typeof null)`?",
+        "a": "'null'",
+        "b": "'object'",
+        "correct": "b"
+    },
+    {
+        "name": "Jaki jest cel użycia `use strict` w JavaScript?",
+        "a": "Wprowadzenie bardziej rygorystycznej składni i obsługi błędów",
+        "b": "Włączenie nowoczesnych funkcji JavaScript",
+        "correct": "a"
+    },
+    {
+        "name": "Która metoda zamienia tablicę na ciąg znaków?",
+        "a": "toString()",
+        "b": "join()",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log(0.1 + 0.2 == 0.3)`?",
+        "a": "true",
+        "b": "false",
+        "correct": "b"
+    },
+    {
+        "name": "Jaki jest cel metody `Array.prototype.map()`?",
+        "a": "Przekształcenie każdego elementu tablicy i zwrócenie nowej tablicy",
+        "b": "Filtrowanie elementów w tablicy",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log(NaN === NaN)`?",
+        "a": "false",
+        "b": "true",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log([] == false)`?",
+        "a": "true",
+        "b": "false",
+        "correct": "a"
+    },
+    {
+        "name": "Co robi metoda `bind()` w JavaScript?",
+        "a": "Tworzy nową funkcję z określonym kontekstem `this`",
+        "b": "Natychmiast wywołuje funkcję z kontekstem `this`",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log(1 + '1' - 1)`?",
+        "a": "10",
+        "b": "11",
+        "correct": "a"
+    },
+    {
+        "name": "Który z poniższych jest poprawnym sposobem zdefiniowania funkcji w JavaScript?",
+        "a": "function myFunction() {}",
+        "b": "def myFunction() {}",
+        "correct": "a"
+    },
+    {
+        "name": "Co robi funkcja `setTimeout` w JavaScript?",
+        "a": "Wykonuje funkcję po określonym czasie opóźnienia",
+        "b": "Wykonuje funkcję wielokrotnie w regularnych odstępach",
+        "correct": "a"
+    },
+    {
+        "name": "Jaka jest różnica między `var`, `let` i `const`?",
+        "a": "`var` jest funkcjonalnie zasięgiem, a `let` i `const` są blokowo zasięgiem",
+        "b": "`const` pozwala na ponowne przypisanie, a `let` i `var` nie",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log(typeof undefined)`?",
+        "a": "'object'",
+        "b": "'undefined'",
+        "correct": "b"
+    },
+    {
+        "name": "Jaki jest cel instrukcji `throw` w JavaScript?",
+        "a": "Rzucenie błędu lub wyjątku",
+        "b": "Przechwycenie błędu w bloku `try`",
+        "correct": "a"
+    },
+    {
+        "name": "Czym jest zamknięcie (closure) w JavaScript?",
+        "a": "Funkcją, która ma dostęp do swojego leksykalnego zasięgu nawet po zakończeniu działania",
+        "b": "Funkcją, która jest wykonywana natychmiast",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log([1] + [2])`?",
+        "a": "'12'",
+        "b": "[1, 2]",
+        "correct": "a"
+    },
+    {
+        "name": "Co robi `Object.freeze()`?",
+        "a": "Zapobiega modyfikacji właściwości obiektu",
+        "b": "Usuwa wszystkie właściwości obiektu",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log([] + {})`?",
+        "a": "'[object Object]'",
+        "b": "'undefined'",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwraca `typeof NaN`?",
+        "a": "'NaN'",
+        "b": "'number'",
+        "correct": "b"
+    },
+    {
+        "name": "Jaki jest cel użycia `new` w JavaScript?",
+        "a": "Tworzy nową instancję obiektu",
+        "b": "Definiuje nową funkcję",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `parseInt('12px')`?",
+        "a": "12",
+        "b": "NaN",
+        "correct": "a"
+    },
+    {
+        "name": "Która metoda usuwa pierwszy element tablicy?",
+        "a": "pop()",
+        "b": "shift()",
+        "correct": "b"
+    },
+    {
+        "name": "Co zwróci `console.log([1, 2, 3].slice(1, 2))`?",
+        "a": "[2]",
+        "b": "[1, 2]",
+        "correct": "a"
+    },
+    {
+        "name": "Jaki jest cel `Promise.all()`?",
+        "a": "Czeka na rozwiązanie lub odrzucenie wszystkich obietnic",
+        "b": "Zwraca pierwszą rozwiązującą obietnicę",
+        "correct": "a"
+    },
+    {
+        "name": "Co robi metoda `reduce()`?",
+        "a": "Redukuje tablicę do jednej wartości",
+        "b": "Filtruje elementy z tablicy",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log('5' - - '2')`?",
+        "a": "3",
+        "b": "7",
+        "correct": "b"
+    },
+    {
+        "name": "Jaka jest różnica między `==` a `===` w JavaScript?",
+        "a": "`==` sprawdza równość wartości, a `===` sprawdza równość wartości i typu",
+        "b": "`==` sprawdza równość typu, a `===` sprawdza równość wartości",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log(1 / 0)` w JavaScript?",
+        "a": "Infinity",
+        "b": "NaN",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log(typeof [])`?",
+        "a": "'array'",
+        "b": "'object'",
+        "correct": "b"
+    },
+    {
+        "name": "Co robi metoda `pop()`?",
+        "a": "Usuwa ostatni element z tablicy",
+        "b": "Usuwa pierwszy element z tablicy",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log('2' * 3)`?",
+        "a": "6",
+        "b": "'23'",
+        "correct": "a"
+    },
+    {
+        "name": "Co robi metoda `join()` w JavaScript?",
+        "a": "Łączy wszystkie elementy tablicy w ciąg znaków",
+        "b": "Dodaje elementy na koniec tablicy",
+        "correct": "a"
+    },
+    {
+        "name": "Co zwróci `console.log(2 + '2')`?",
+        "a": "'22'",
+        "b": "4",
+        "correct": "a"
+    },
+    {
+        "name": "Jakie są różnice między `var`, `let` i `const`?",
+        "a": "'wszystkie są blokowe'",
+        "b": "'var jest funkcjonalny, let i const są blokowe'",
+        "correct": "b"
+    },
+    {
+        "name": "Co to jest `closure`?",
+        "a": "'Funkcja bez nazwy'",
+        "b": "'Funkcja, która zachowuje dostęp do swojego zasięgu'",
+        "correct": "b"
+    },
+    {
+        "name": "Jak działa `this` w JavaScript?",
+        "a": "'Zawsze odnosi się do obiektu globalnego'",
+        "b": "'Odwołuje się do obiektu, w którym jest wywoływana'",
+        "correct": "b"
+    },
+    {
+        "name": "Co to jest `Promise`?",
+        "a": "'Typ zmiennej'",
+        "b": "'Obiekt reprezentujący asynchroniczną operację'",
+        "correct": "b"
+    },
+    {
+        "name": "Jakie są metody tworzenia obiektów w JavaScript?",
+        "a": "'literal obiektowy, new Object(), Object.create()'",
+        "b": "'Array(), Function()'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak użyć `async/await`?",
+        "a": "'Do definiowania zmiennych'",
+        "b": "'Do pisania asynchronicznego kodu w stylu synchronicznym'",
+        "correct": "b"
+    },
+    {
+        "name": "Jakie są różnice między `==` a `===`?",
+        "a": "'Oba porównują wartości'",
+        "b": "'`==` porównuje wartości, `===` porównuje wartości i typy'",
+        "correct": "b"
+    },
+    {
+        "name": "Co to jest `event delegation`?",
+        "a": "'Obsługa zdarzeń tylko na dzieciach'",
+        "b": "'Obsługa zdarzeń na rodzicu zamiast dzieci'",
+        "correct": "b"
+    },
+    {
+        "name": "Jakie są różnice między `slice()` a `splice()`?",
+        "a": "'Oba działają identycznie'",
+        "b": "'slice() zwraca nową tablicę, splice() modyfikuje oryginalną'",
+        "correct": "b"
+    },
+    {
+        "name": "Jakie są metody iteracji po tablicy?",
+        "a": "'if, switch, while'",
+        "b": "'for, forEach, map, filter'",
+        "correct": "b"
+    },
+    {
+        "name": "Co to jest hoisting?",
+        "a": "'Usuwanie zmiennych z pamięci'",
+        "b": "'Podnoszenie deklaracji zmiennych na początek zasięgu'",
+        "correct": "b"
+    },
+    {
+        "name": "Jakie są podstawowe typy danych w JavaScript?",
+        "a": "'Integer, Float, Character'",
+        "b": "'String, Number, Boolean, Object, Undefined'",
+        "correct": "b"
+    },
+    {
+        "name": "Jakie są zastosowania `localStorage`?",
+        "a": "'Przechowywanie danych na serwerze'",
+        "b": "'Przechowywanie danych w przeglądarce'",
+        "correct": "b"
+    },
+    {
+        "name": "Co to jest `JSON`?",
+        "a": "'Typ bazy danych'",
+        "b": "'Format wymiany danych oparty na tekstach'",
+        "correct": "b"
+    },
+    {
+        "name": "Jak działa `setTimeout()`?",
+        "a": "'Zatrzymuje wykonywanie skryptu'",
+        "b": "'Wykonuje funkcję po określonym czasie'",
+        "correct": "b"
+    },
+    {
+        "name": "Jakie są różnice między `for...of` a `for...in`?",
+        "a": "'Oba iterują po kluczach'",
+        "b": "'for...of iteruje po wartościach, for...in po kluczach'",
+        "correct": "b"
+    },
+    {
+        "name": "Jakie są metody do obsługi błędów?",
+        "a": "'if/else, switch'",
+        "b": "'try/catch, throw'",
+        "correct": "b"
+    },
+    {
+        "name": "Co to jest `event bubbling`?",
+        "a": "'Faza, w której zdarzenie propaguje się w dół DOM'",
+        "b": "'Faza, w której zdarzenie propaguje się w górę DOM'",
+        "correct": "b"
+    },
+    {
+        "name": "Jakie są różnice między `call()` a `apply()`?",
+        "a": "'Oba mają identyczne działanie'",
+        "b": "'apply() przyjmuje argumenty jako tablicę, call() jako listę'",
+        "correct": "b"
+    },
+    {
+        "name": "Co to jest `template literal`?",
+        "a": "'Zwykły ciąg znaków'",
+        "b": "'Ciąg znaków z interpolacją zmiennych'",
+        "correct": "b"
+    },
+    {
+        "name": "Jakie są różnice między `null` a `undefined`?",
+        "a": "'null to brak wartości, undefined to brak przypisania'",
+        "b": "'Oba są identyczne'",
+        "correct": "a"
+    },
+    {
+        "name": "Co to jest `default parameter`?",
+        "a": "'Parametr, który jest wymagany'",
+        "b": "'Parametr z domyślną wartością'",
+        "correct": "b"
+    },
+    {
+        "name": "Jakie są metody manipulacji DOM?",
+        "a": "'setTimeout(), clearTimeout()'",
+        "b": "'getElementById(), querySelector()'",
+        "correct": "b"
+    },
+    {
+        "name": "What are the differences between `var`, `let`, and `const`?",
+        "a": "'All are block-scoped'",
+        "b": "'var is function-scoped, let and const are block-scoped'",
+        "correct": "b"
+    },
+    {
+        "name": "What is a `closure`?",
+        "a": "'A function without a name'",
+        "b": "'A function that retains access to its scope'",
+        "correct": "b"
+    },
+    {
+        "name": "How does `this` work in JavaScript?",
+        "a": "'It always refers to the global object'",
+        "b": "'It refers to the object in which it is called'",
+        "correct": "b"
+    },
+    {
+        "name": "What is a `Promise`?",
+        "a": "'A type of variable'",
+        "b": "'An object representing an asynchronous operation'",
+        "correct": "b"
+    },
+    {
+        "name": "What are the methods for creating objects in JavaScript?",
+        "a": "'object literal, new Object(), Object.create()'",
+        "b": "'Array(), Function()'",
+        "correct": "a"
+    },
+    {
+        "name": "How to use `async/await`?",
+        "a": "'To define variables'",
+        "b": "'To write asynchronous code in a synchronous style'",
+        "correct": "b"
+    },
+    {
+        "name": "What are the differences between `==` and `===`?",
+        "a": "'Both compare values'",
+        "b": "'`==` compares values, `===` compares values and types'",
+        "correct": "b"
+    },
+    {
+        "name": "What is `event delegation`?",
+        "a": "'Handling events only on children'",
+        "b": "'Handling events on the parent instead of children'",
+        "correct": "b"
+    },
+    {
+        "name": "What are the differences between `slice()` and `splice()`?",
+        "a": "'Both operate identically'",
+        "b": "'slice() returns a new array, splice() modifies the original'",
+        "correct": "b"
+    },
+    {
+        "name": "What are the methods for iterating through an array?",
+        "a": "'if, switch, while'",
+        "b": "'for, forEach, map, filter'",
+        "correct": "b"
+    },
+    {
+        "name": "What is hoisting?",
+        "a": "'Removing variables from memory'",
+        "b": "'Raising variable declarations to the top of their scope'",
+        "correct": "b"
+    },
+    {
+        "name": "What are the basic data types in JavaScript?",
+        "a": "'Integer, Float, Character'",
+        "b": "'String, Number, Boolean, Object, Undefined'",
+        "correct": "b"
+    },
+    {
+        "name": "What are the uses of `localStorage`?",
+        "a": "'Storing data on the server'",
+        "b": "'Storing data in the browser'",
+        "correct": "b"
+    },
+    {
+        "name": "What is `JSON`?",
+        "a": "'A type of database'",
+        "b": "'A text-based data interchange format'",
+        "correct": "b"
+    },
+    {
+        "name": "How does `setTimeout()` work?",
+        "a": "'Stops script execution'",
+        "b": "'Executes a function after a specified time'",
+        "correct": "b"
+    },
+    {
+        "name": "What are the differences between `for...of` and `for...in`?",
+        "a": "'Both iterate over keys'",
+        "b": "'for...of iterates over values, for...in iterates over keys'",
+        "correct": "b"
+    },
+    {
+        "name": "What are the methods for error handling?",
+        "a": "'if/else, switch'",
+        "b": "'try/catch, throw'",
+        "correct": "b"
+    },
+    {
+        "name": "What is `event bubbling`?",
+        "a": "'The phase where the event propagates down the DOM'",
+        "b": "'The phase where the event propagates up the DOM'",
+        "correct": "b"
+    },
+    {
+        "name": "What are the differences between `call()` and `apply()`?",
+        "a": "'Both have identical behavior'",
+        "b": "'apply() takes arguments as an array, call() takes them as a list'",
+        "correct": "b"
+    },
+    {
+        "name": "What is a `template literal`?",
+        "a": "'A regular string'",
+        "b": "'A string with variable interpolation'",
+        "correct": "b"
+    },
+    {
+        "name": "What are the differences between `null` and `undefined`?",
+        "a": "'null represents no value, undefined represents no assignment'",
+        "b": "'Both are identical'",
+        "correct": "a"
+    },
+    {
+        "name": "What is a `default parameter`?",
+        "a": "'A required parameter'",
+        "b": "'A parameter with a default value'",
+        "correct": "b"
+    },
+    {
+        "name": "What are the methods for manipulating the DOM?",
+        "a": "'setTimeout(), clearTimeout()'",
+        "b": "'getElementById(), querySelector()'",
+        "correct": "b"
+    },
+    {
+        "name": "Czym różni się 'Object.seal()' od 'Object.freeze()'?",
+        "a": "'Object.seal() pozwala na modyfikację istniejących właściwości, ale nie na ich dodawanie ani usuwanie, podczas gdy Object.freeze() całkowicie blokuje zmiany w obiekcie.'",
+        "b": "'Object.seal() blokuje usuwanie właściwości, ale pozwala na ich dodawanie, a Object.freeze() uniemożliwia wszelkie zmiany w obiekcie.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will be logged to the console? 'const a = {}; Object.defineProperty(a, 'x', { value: 10, writable: false }); a.x = 20; console.log(a.x);'",
+        "a": "'20'",
+        "b": "'10'",
+        "correct": "b"
+    },
+    {
+        "name": "Co zwróci wyrażenie 'typeof null' w JavaScript?",
+        "a": "'null'",
+        "b": "'object'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the difference between 'var', 'let', and 'const' in terms of hoisting?",
+        "a": "'Only 'var' is hoisted, while 'let' and 'const' are not hoisted.'",
+        "b": "'All are hoisted, but 'let' and 'const' are in a temporal dead zone until their declaration.'",
+        "correct": "b"
+    },
+    {
+        "name": "Czy 'async/await' w JavaScript może działać bez użycia 'Promise'?",
+        "a": "'Nie, async/await wymaga Promise, aby zarządzać operacjami asynchronicznymi.'",
+        "b": "'Tak, async/await może działać bez Promise w pewnych przypadkach.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will be logged? 'console.log(0.1 + 0.2 === 0.3)'",
+        "a": "'true'",
+        "b": "'false'",
+        "correct": "b"
+    },
+    {
+        "name": "Jak zadziała 'this' w funkcji wywołanej za pomocą 'bind()'?",
+        "a": "'Zawsze będzie wskazywało na obiekt podany w 'bind()', niezależnie od kontekstu późniejszego wywołania.'",
+        "b": "'Może wskazywać na inny obiekt, jeśli zostanie nadpisane w późniejszym wywołaniu.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the purpose of the 'Symbol.iterator' in JavaScript?",
+        "a": "'It is used to make objects iterable by defining a custom iterator.'",
+        "b": "'It allows you to create unique keys for object properties.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czy 'Map' i 'Object' w JavaScript są zawsze wymienne?",
+        "a": "'Tak, ponieważ oba przechowują pary klucz-wartość.'",
+        "b": "'Nie, ponieważ Map oferuje lepszą wydajność i pozwala na używanie dowolnych typów jako kluczy.'",
+        "correct": "b"
+    },
+    {
+        "name": "What will the following code output? 'let a = [1, 2, 3]; let b = [...a]; b.push(4); console.log(a);'",
+        "a": "'[1, 2, 3]'",
+        "b": "'[1, 2, 3, 4]'",
+        "correct": "a"
+    },
+    {
+        "name": "Czym różni się '=='' od '===' w JavaScript?",
+        "a": "'== porównuje wartości po konwersji typów, podczas gdy === wymaga identyczności typów i wartości.'",
+        "b": "'== wymaga identyczności typów i wartości, a === porównuje tylko wartości.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will 'Array(5).fill(0).map((v, i) => i)' return?",
+        "a": "'[0, 1, 2, 3, 4]'",
+        "b": "'[0, 0, 0, 0, 0]'",
+        "correct": "b"
+    },
+    {
+        "name": "Czy można przerwać pętlę forEach w JavaScript?",
+        "a": "'Nie, forEach nie obsługuje przerwania pętli.'",
+        "b": "'Tak, można użyć 'break' lub 'return'.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will the following code log? 'let obj = {}; Object.defineProperty(obj, 'x', { enumerable: false, value: 10 }); console.log(Object.keys(obj));'",
+        "a": "'['x']'",
+        "b": "'[]'",
+        "correct": "b"
+    },
+    {
+        "name": "Czy funkcje strzałkowe mają własny obiekt 'this'?",
+        "a": "'Nie, dziedziczą 'this' z otaczającego kontekstu.'",
+        "b": "'Tak, mają własny kontekst 'this', niezależnie od miejsca wywołania.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czym jest 'currying' w JavaScript?",
+        "a": "'Proces, w którym funkcja z wieloma argumentami jest przekształcana w sekwencję funkcji przyjmujących po jednym argumencie.'",
+        "b": "'Proces, w którym funkcja może być wywoływana z różną liczbą argumentów.'",
+        "correct": "a"
+    },
+    {
+        "name": "What does the 'new' keyword do in JavaScript?",
+        "a": "'It creates a new function and binds 'this' to the provided object.'",
+        "b": "'It creates a new object and links it to the prototype of the constructor function.'",
+        "correct": "b"
+    },
+    {
+        "name": "Jakie wartości zwróci poniższy kod? 'const set = new Set([1, 2, 2, 3]); console.log(set.size);'",
+        "a": "'4'",
+        "b": "'3'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the purpose of 'WeakMap' in JavaScript?",
+        "a": "'It stores key-value pairs with weakly held keys, allowing garbage collection of keys if there are no other references to them.'",
+        "b": "'It is a variation of Map with stricter constraints on the types of keys.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czy 'Promise.all()' zakończy się sukcesem, jeśli choć jeden z Promisów zakończy się błędem?",
+        "a": "'Nie, Promise.all() odrzuci się z błędem pierwszego odrzuconego Promisa.'",
+        "b": "'Tak, ponieważ Promise.all() kontynuuje działanie niezależnie od stanu Promisów.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will be logged? 'let x = 1; function foo() { console.log(x); let x = 2; } foo();'",
+        "a": "'undefined'",
+        "b": "'ReferenceError'",
+        "correct": "b"
+    },
+    {
+        "name": "Jak działa 'debouncing' w JavaScript?",
+        "a": "'Ogranicza częstotliwość wykonywania funkcji, wywołując ją dopiero po określonym czasie od ostatniego wywołania.'",
+        "b": "'Wywołuje funkcję w równych odstępach czasu, niezależnie od częstotliwości zdarzeń.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the result of 'console.log(('b' + 'a' + + 'a' + 'a').toLowerCase())'?",
+        "a": "'banana'",
+        "b": "'baaa'",
+        "correct": "a"
+    },
+    {
+        "name": "Co oznacza 'closure' w JavaScript?",
+        "a": "'Mechanizm pozwalający funkcji na zapamiętanie i odwołanie się do zakresu, w którym została utworzona.'",
+        "b": "'Zamknięcie zmiennych wewnątrz funkcji, aby nie były widoczne na zewnątrz.'",
+        "correct": "a"
+    },
+    {
+        "name": "What does 'Object.entries()' return?",
+        "a": "'An array of the object's key-value pairs.'",
+        "b": "'An array of the object's keys.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czy 'NaN === NaN' zwróci true w JavaScript?",
+        "a": "'Tak, ponieważ obie wartości są takie same.'",
+        "b": "'Nie, ponieważ NaN jest jedyną wartością w JavaScript, która nie jest równa samej sobie.'",
+        "correct": "b"
+    },
+    {
+        "name": "What will 'typeof []' return in JavaScript?",
+        "a": "'array'",
+        "b": "'object'",
+        "correct": "b"
+    },
+    {
+        "name": "Jak działa 'Object.assign()'?",
+        "a": "'Kopiuje właściwości z jednego lub więcej obiektów źródłowych do obiektu docelowego.'",
+        "b": "'Łączy obiekty i zwraca nowy obiekt bez modyfikacji oryginałów.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will the following code return? 'const foo = () => {}; console.log(foo.prototype);'",
+        "a": "'undefined'",
+        "b": "'an empty object'",
+        "correct": "a"
+    },
+    {
+        "name": "Czy 'Object.is()' w JavaScript różni się od '==='?",
+        "a": "'Nie, działa dokładnie tak samo jak ===.'",
+        "b": "'Tak, Object.is() rozróżnia -0 i +0 oraz traktuje NaN jako równy NaN.'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the result of 'console.log([...'abc'])'?",
+        "a": "'['a', 'b', 'c']'",
+        "b": "'['abc']'",
+        "correct": "a"
+    },
+    {
+        "name": "Jaką funkcjonalność oferuje 'Function.prototype.call()'?",
+        "a": "'Pozwala na wywołanie funkcji z podanym kontekstem 'this' i listą argumentów.'",
+        "b": "'Tworzy nową funkcję, która będzie wywoływana w podanym kontekście.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the difference between 'Array.prototype.slice()' and 'Array.prototype.splice()'?",
+        "a": "'slice() returns a new array without modifying the original, while splice() modifies the array and returns the removed elements.'",
+        "b": "'Both return new arrays, but slice() only removes elements while splice() can add new elements.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czy JavaScript jest językiem synchronicznym czy asynchronicznym?",
+        "a": "'JavaScript jest synchroniczny z natury, ale posiada asynchroniczne mechanizmy takie jak Promisy czy async/await.'",
+        "b": "'JavaScript jest w pełni asynchroniczny dzięki Event Loop.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the output of 'console.log(1 < 2 < 3)' in JavaScript?",
+        "a": "'true'",
+        "b": "'false'",
+        "correct": "a"
+    },
+    {
+        "name": "What will the following code output? 'let x = 10; function outer() { let x = 20; return function inner() { console.log(x); }; } const fn = outer(); fn();'",
+        "a": "'10'",
+        "b": "'20'",
+        "correct": "b"
+    },
+    {
+        "name": "Czym jest 'tail call optimization' w JavaScript i kiedy działa?",
+        "a": "'Optymalizacja, która usuwa ramki stosu funkcji w rekurencji, działa tylko w funkcjach strzałkowych.'",
+        "b": "'Optymalizacja pozwalająca na wykonywanie rekurencji bez nadmiarowego zużycia stosu, działa tylko w funkcjach spełniających ścisłe reguły rekurencji.'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the result of 'console.log([] == ![]);'?",
+        "a": "'true'",
+        "b": "'false'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak zachowa się 'this' w poniższym kodzie? 'const obj = { method: () => console.log(this) }; obj.method();'",
+        "a": "'Będzie wskazywać na globalny obiekt, np. 'window' w przeglądarce.'",
+        "b": "'Będzie wskazywać na obiekt 'obj', ponieważ jest to metoda obiektu.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will be logged to the console? 'let a = [1, 2, 3]; delete a[1]; console.log(a.length);'",
+        "a": "'3'",
+        "b": "'2'",
+        "correct": "a"
+    },
+    {
+        "name": "Czy 'Object.defineProperty()' pozwala na tworzenie właściwości z getterem i setterem jednocześnie?",
+        "a": "'Tak, pod warunkiem zdefiniowania zarówno 'get', jak i 'set' w konfiguracji właściwości.'",
+        "b": "'Nie, ponieważ właściwość może mieć albo 'value', albo 'get/set', ale nie oba.'",
+        "correct": "a"
+    },
+    {
+        "name": "What does '[].reduce.call({ length: 2, 0: 'a', 1: 'b' }, (acc, val) => acc + val, '')' return?",
+        "a": "'ab'",
+        "b": "'undefined'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak działa 'Reflect' w JavaScript?",
+        "a": "'Zapewnia metody niskopoziomowe do interakcji z obiektami, takie jak odbicie funkcji czy właściwości obiektów.'",
+        "b": "'To biblioteka zewnętrzna służąca do manipulacji DOM.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the difference between a shallow and a deep copy in JavaScript?",
+        "a": "'A shallow copy duplicates only references to nested objects, while a deep copy duplicates the entire structure.'",
+        "b": "'Both copy the entire structure, but deep copy includes additional metadata.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czy funkcja 'setTimeout()' gwarantuje, że zostanie wykonana dokładnie po podanym czasie?",
+        "a": "'Nie, czas wykonania może się opóźnić przez inne zadania w kolejce Event Loop.'",
+        "b": "'Tak, ponieważ działa w oparciu o precyzyjny zegar systemowy.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will 'console.log(typeof NaN)' output?",
+        "a": "'number'",
+        "b": "'NaN'",
+        "correct": "a"
+    },
+    {
+        "name": "Czy 'for...in' iteruje po właściwościach z łańcucha prototypów?",
+        "a": "'Tak, ale iteruje tylko po właściwościach dziedziczonych, pomijając własne.'",
+        "b": "'Tak, iteruje zarówno po własnych właściwościach obiektu, jak i tych z łańcucha prototypów.'",
+        "correct": "b"
+    },
+    {
+        "name": "What will the following code return? 'const obj = {}; obj[{}] = 'value'; console.log(obj[{}]);'",
+        "a": "'undefined'",
+        "b": "'value'",
+        "correct": "b"
+    },
+    {
+        "name": "Jak działa 'async generator' w JavaScript?",
+        "a": "'Jest to funkcja asynchroniczna, która zwraca iterowalny obiekt zgodny z interfejsem async iterable.'",
+        "b": "'Jest to funkcja synchroniczna pozwalająca na przetwarzanie async/await wewnątrz pętli for.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the result of 'console.log({} + [])'?",
+        "a": "'[object Object]'",
+        "b": "'0'",
+        "correct": "a"
+    },
+    {
+        "name": "Czy funkcje 'then()' i 'catch()' w Promise są blokujące?",
+        "a": "'Nie, są zawsze asynchroniczne, niezależnie od stanu Promisa.'",
+        "b": "'Tak, blokują, jeśli Promise jest już rozstrzygnięty.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the result of 'console.log([1, 2, 3].map(parseInt))'?",
+        "a": "'[1, NaN, NaN]'",
+        "b": "'[1, 2, 3]'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak działa 'Intl.NumberFormat' w JavaScript?",
+        "a": "'Pozwala na formatowanie liczb zgodnie z lokalnymi ustawieniami językowymi i walutowymi.'",
+        "b": "'Konwertuje liczby na ciągi znaków w formacie JSON.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will the code output? 'console.log(new Boolean(false) == false)'",
+        "a": "'true'",
+        "b": "'false'",
+        "correct": "a"
+    },
+    {
+        "name": "Czy Promise może przejść ze stanu 'rejected' do 'fulfilled'?",
+        "a": "'Nie, stan Promisa jest niezmienny po pierwszej rozstrzygniętej wartości.'",
+        "b": "'Tak, ale tylko w przypadku ręcznej zmiany przez 'resolve()' lub 'reject()'.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the purpose of JSX in React?",
+        "a": "'JSX is a syntax extension that allows writing HTML-like code in JavaScript to describe the UI structure.'",
+        "b": "'JSX is a templating engine similar to Handlebars or EJS used for server-side rendering in React.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czym jest 'state' w React?",
+        "a": "'Obiekt przechowujący dane komponentu, który można modyfikować tylko przez funkcję setState().'",
+        "b": "'Zmienna globalna dostępna we wszystkich komponentach React.'",
+        "correct": "a"
+    },
+    {
+        "name": "What are React components?",
+        "a": "'Reusable building blocks of a React application, which can be class-based or functional.'",
+        "b": "'Templates used to render the static content of the application.'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak używamy 'props' w React?",
+        "a": "'Props przekazujemy do komponentu jako atrybuty HTML i odczytujemy je wewnątrz komponentu jako obiekt.'",
+        "b": "'Props to zmienne globalne, które można dowolnie modyfikować w dowolnym momencie.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the virtual DOM in React?",
+        "a": "'A lightweight representation of the real DOM that allows React to efficiently update the UI by comparing changes.'",
+        "b": "'A database used by React to store component states and props.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czym różni się 'class component' od 'functional component' w React?",
+        "a": "'Class components mogą mieć stan (state) i metody cyklu życia, podczas gdy functional components nie mogą.'",
+        "b": "'Functional components mogą mieć stan (state) i metody cyklu życia dzięki hookom, natomiast class components używają klasy do zarządzania stanem.'",
+        "correct": "b"
+    },
+    {
+        "name": "What does the 'useState' hook do in React?",
+        "a": "'It allows functional components to manage local state by providing a state variable and a function to update it.'",
+        "b": "'It is used to manage global state in a React application.'",
+        "correct": "a"
+    },
+    {
+        "name": "Co to jest 'React.Fragment'?",
+        "a": "'Jest to komponent pozwalający na grupowanie elementów bez dodawania dodatkowych węzłów w DOM.'",
+        "b": "'Jest to narzędzie do dzielenia komponentów na mniejsze części.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the purpose of the 'key' prop in React?",
+        "a": "'It helps React identify and efficiently update items in a list during rendering.'",
+        "b": "'It is used to secure components from unauthorized access.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czym jest 'lifting state up' w React?",
+        "a": "'Proces przenoszenia stanu do wspólnego przodka komponentów, aby umożliwić współdzielenie danych.'",
+        "b": "'Proces przenoszenia stanu z globalnego store do lokalnego komponentu.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the purpose of 'React.StrictMode'?",
+        "a": "'It highlights potential problems in an application by running additional checks and warnings in development mode.'",
+        "b": "'It disables certain features of React to ensure compatibility with older browsers.'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak działa 'componentDidMount()' w React?",
+        "a": "'Metoda wywoływana jest po zamontowaniu komponentu w DOM i jest używana do inicjalizacji danych lub ustawiania subskrypcji.'",
+        "b": "'Metoda wywoływana jest przed zamontowaniem komponentu i służy do wstępnego renderowania.'",
+        "correct": "a"
+    },
+    {
+        "name": "What does 'useEffect' do in React?",
+        "a": "'It lets you perform side effects like fetching data, subscribing to events, or manually manipulating the DOM.'",
+        "b": "'It is used to handle user inputs in functional components.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czym jest 'prop drilling' w React?",
+        "a": "'Proces przekazywania propsów przez wiele poziomów komponentów w celu dotarcia do dziecka.'",
+        "b": "'Mechanizm wykorzystywany do dynamicznego generowania propsów na podstawie stanu.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the purpose of 'React.memo'?",
+        "a": "'It is used to prevent unnecessary re-renders of functional components by memoizing their output based on props.'",
+        "b": "'It allows sharing data between unrelated components in a React application.'",
+        "correct": "a"
+    },
+    {
+        "name": "Jakie ograniczenia mają 'props' w React?",
+        "a": "'Props są tylko do odczytu i nie można ich modyfikować wewnątrz komponentu.'",
+        "b": "'Props muszą być przekazywane jako stringi lub liczby.'",
+        "correct": "a"
+    },
+    {
+        "name": "What happens when a parent component re-renders in React?",
+        "a": "'All child components also re-render unless prevented by React.memo or shouldComponentUpdate.'",
+        "b": "'Only the parent component re-renders, child components remain unaffected.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czym jest 'context' w React?",
+        "a": "'Mechanizm pozwalający na przekazywanie danych do komponentów bez konieczności używania propsów na każdym poziomie.'",
+        "b": "'To funkcja umożliwiająca dynamiczną modyfikację stanu komponentu.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the difference between 'controlled' and 'uncontrolled' components in React?",
+        "a": "'Controlled components have their state controlled by React, while uncontrolled components manage their own state.'",
+        "b": "'Controlled components are used with forms, while uncontrolled components are used for static data.'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak działa 'defaultProps' w React?",
+        "a": "'defaultProps ustawia domyślne wartości propsów, jeśli nie zostaną one przekazane do komponentu.'",
+        "b": "'defaultProps jest używane do ustawiania domyślnego stanu komponentu.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will happen if 'setState()' is called in 'componentDidUpdate()' without a condition?",
+        "a": "'It will cause an infinite loop, as setState triggers another componentDidUpdate.'",
+        "b": "'It will throw an error because setState cannot be called in componentDidUpdate.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czym różni się 'context' od 'Redux' w React?",
+        "a": "'Context jest wbudowanym narzędziem React do przekazywania danych przez drzewo komponentów, natomiast Redux to zewnętrzna biblioteka do zarządzania globalnym stanem.'",
+        "b": "'Redux obsługuje lokalny stan komponentu, a Context tylko globalny stan aplikacji.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will the following code output? 'const [count, setCount] = useState(0); useEffect(() => { setCount(count + 1); }, [count]); console.log(count);'",
+        "a": "'An infinite loop will occur, and the count will continuously increase.'",
+        "b": "'The count will increase once, then stop at 1.'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak działa 'useReducer' w React i kiedy warto go używać?",
+        "a": "'useReducer zarządza bardziej złożonym stanem i logiką aktualizacji poprzez funkcję redukującą i akcje.'",
+        "b": "'useReducer to alternatywa dla useState, ale tylko dla komponentów klasy.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the difference between 'useLayoutEffect' and 'useEffect'?",
+        "a": "'useLayoutEffect runs synchronously after DOM mutations, while useEffect runs asynchronously after rendering.'",
+        "b": "'useEffect is for side effects, while useLayoutEffect is for debugging.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czy 'React.memo' działa domyślnie dla zagnieżdżonych obiektów przekazywanych jako propsy?",
+        "a": "'Nie, React.memo porównuje referencje obiektów, a nie ich zawartość, co może prowadzić do niepotrzebnych renderów.'",
+        "b": "'Tak, React.memo automatycznie porównuje zawartość wszystkich obiektów propsów.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will the following code output? 'const arr = [1, 2]; arr[5] = 10; console.log(arr.map(el => el * 2));'",
+        "a": "'[2, 4, NaN, NaN, NaN, 20]'",
+        "b": "'[2, 4, empty × 3, 20]'",
+        "correct": "a"
+    },
+    {
+        "name": "Czym jest 'Reconciliation' w React i jak działa?",
+        "a": "'Proces porównywania wirtualnego DOM z poprzednią wersją i aktualizowania tylko zmienionych części w prawdziwym DOM.'",
+        "b": "'Proces zamiany starych komponentów na nowe podczas aktualizacji stanu aplikacji.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will happen if 'useEffect' depends on an object reference?",
+        "a": "'It will trigger the effect on every render, as the reference changes even if the object content is the same.'",
+        "b": "'It will only trigger the effect if the object's content changes.'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak działa 'lazy loading' z React.lazy i React.Suspense?",
+        "a": "'React.lazy umożliwia dynamiczne ładowanie komponentów, a React.Suspense pozwala na renderowanie zapasowego widoku podczas ładowania.'",
+        "b": "'React.lazy i React.Suspense wspólnie zarządzają wszystkimi zależnościami aplikacji bez konieczności używania Webpack.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will the following code output? 'function Parent() { const [count, setCount] = useState(0); return <Child count={count} />; } function Child({ count }) { useEffect(() => console.log(count), []); return <div>{count}</div>; }'",
+        "a": "'0'",
+        "b": "'The effect will never log anything because the dependency array is empty.'",
+        "correct": "b"
+    },
+    {
+        "name": "Czym jest 'HOC' (Higher-Order Component) w React?",
+        "a": "'Funkcja przyjmująca komponent jako argument i zwracająca nowy komponent z rozszerzonymi możliwościami.'",
+        "b": "'Specjalny komponent umożliwiający zarządzanie globalnym stanem aplikacji.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the purpose of the 'Error Boundary' in React?",
+        "a": "'It catches JavaScript errors in a child component tree and displays a fallback UI instead of crashing the app.'",
+        "b": "'It prevents side effects in the render phase of components.'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak działa 'useRef' w React?",
+        "a": "'Pozwala na przechowywanie odniesień do elementów DOM lub dowolnych wartości, które nie powodują renderowania komponentu po ich zmianie.'",
+        "b": "'Jest używane wyłącznie do zarządzania kluczami w listach renderowanych dynamicznie.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will the following code output? 'const [state, setState] = useState(0); const increment = () => setState(state + 1); increment(); increment(); console.log(state);'",
+        "a": "'2'",
+        "b": "'0'",
+        "correct": "b"
+    },
+    {
+        "name": "Czym różni się metoda 'setState' w klasach od 'useState' w funkcjonalnych komponentach?",
+        "a": "'setState w klasach może automatycznie łączyć stary stan z nowym, natomiast useState w funkcjonalnych komponentach nadpisuje stan.'",
+        "b": "'useState automatycznie łączy obiekty stanów, natomiast setState w klasach tego nie robi.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the difference between 'hydration' and 'rendering' in React?",
+        "a": "'Hydration attaches event listeners to server-rendered markup, while rendering creates markup from scratch.'",
+        "b": "'Rendering occurs in the client-side, while hydration is exclusive to the server-side.'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak działa 'Concurrent Mode' w React?",
+        "a": "'Pozwala na przerwanie renderowania w celu reagowania na pilniejsze zmiany w UI, co poprawia wydajność.'",
+        "b": "'Jest to tryb debugowania komponentów React używany w czasie programowania.'",
+        "correct": "a"
+    },
+    {
+        "name": "What will happen if you call 'setState()' with the same value as the current state in React?",
+        "a": "'React will optimize and avoid re-rendering the component.'",
+        "b": "'The component will always re-render regardless of the value.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czym jest 'portals' w React i kiedy się je stosuje?",
+        "a": "'Portals pozwalają na renderowanie komponentów poza hierarchią DOM ich rodzica, np. dla modali.'",
+        "b": "'Portals to specjalne komponenty umożliwiające dynamiczne ładowanie zależności.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is jQuery?",
+        "a": "'A JavaScript library designed to simplify HTML DOM manipulation, event handling, and animations.'",
+        "b": "'A standalone programming language used for server-side scripting.'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak w jQuery wybiera się elementy DOM?",
+        "a": "'Za pomocą selektorów CSS, np. $(\"#id\") dla ID lub $(\".class\") dla klasy.'",
+        "b": "'Za pomocą unikalnych metod, takich jak queryID() lub queryClass().' ",
+        "correct": "b"
+    },
+    {
+        "name": "What does the '$()' function in jQuery do?",
+        "a": "'It selects and manipulates elements from the DOM, similar to document.querySelector().' ",
+        "b": "'It is used to declare variables in jQuery applications.'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak można ukryć element w jQuery?",
+        "a": "'Za pomocą metody hide(), np. $(\"#element\").hide();'",
+        "b": "'Za pomocą metody conceal(), np. $(\"#element\").conceal();'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the purpose of the 'ready()' method in jQuery?",
+        "a": "'It ensures that the DOM is fully loaded before executing code.'",
+        "b": "'It checks if the element is visible before executing the script.'",
+        "correct": "a"
+    },
+    {
+        "name": "Czym różni się 'fadeIn()' od 'fadeOut()' w jQuery?",
+        "a": "'fadeIn() pokazuje element, a fadeOut() go ukrywa.'",
+        "b": "'fadeIn() i fadeOut() wykonują te same operacje, ale w odwrotnej kolejności.'",
+        "correct": "a"
+    },
+    {
+        "name": "What method is used to add a class to an element in jQuery?",
+        "a": "'addClass()' ",
+        "b": "'appendClass()'",
+        "correct": "a"
+    },
+    {
+        "name": "Jak dodać element do DOM za pomocą jQuery?",
+        "a": "'Za pomocą metody append(), np. $(\"<div></div>\").appendTo(\"#parent\");'",
+        "b": "'Za pomocą metody insert(), np. $(\"<div></div>\").insertTo(\"#parent\");'",
+        "correct": "a"
+    },
+    {
+        "name": "What does the 'animate()' method in jQuery do?",
+        "a": "'It creates custom animations for CSS properties of elements.'",
+        "b": "'It animates the entire page content from one position to another.'",
+        "correct": "a"
+    },
+    {
+        "name": "How can you attach an event listener to an element in jQuery?",
+        "a": "'By using the .on() method, e.g., $(\"#element\").on(\"click\", function() {...});'",
+        "b": "'By using the .addEventListener() method, just like in vanilla JavaScript.'",
+        "correct": "a"
+    },
+    {
+        "name": "What does the 'hover()' method in jQuery do?",
+        "a": "'It binds two functions to be executed when the mouse enters and leaves an element.'",
+        "b": "'It makes the element move when the mouse hovers over it.'",
+        "correct": "a"
+    },
+    {
+        "name": "How can you stop an event from bubbling in jQuery?",
+        "a": "'By using the .stopPropagation() method within the event handler.'",
+        "b": "'By using the .preventDefault() method within the event handler.'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the 'each()' function used for in jQuery?",
+        "a": "'It iterates over a set of elements and applies a function to each one.'",
+        "b": "'It checks whether a set of elements matches a given condition.'",
+        "correct": "a"
+    },
+    {
+        "name": "Jakie jest domyślne zachowanie metody 'submit()' w jQuery?",
+        "a": "'Zgłasza zdarzenie 'submit' formularza, ale nie wysyła danych.'",
+        "b": "'Automatycznie wysyła formularz, gdy jest wywołana.'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the purpose of the 'attr()' method in jQuery?",
+        "a": "'It gets or sets the value of an attribute on selected elements.'",
+        "b": "'It removes attributes from the selected elements.'",
+        "correct": "a"
+    },
+    {
+        "name": "What does the 'hide()' method do in jQuery?",
+        "a": "'It removes the element from the DOM completely.'",
+        "b": "'It hides the element by setting its display property to 'none.'",
+        "correct": "b"
+    },
+    {
+        "name": "How can you change the text content of an element in jQuery?",
+        "a": "'By using the .html() method.'",
+        "b": "'By using the .text() method.'",
+        "correct": "b"
+    },
+    {
+        "name": "What method is used to remove an element from the DOM in jQuery?",
+        "a": "'remove()'",
+        "b": "'detach()'",
+        "correct": "b"
+    },
+    {
+        "name": "How do you add an event listener for a 'click' event in jQuery?",
+        "a": "'By using the .on() method.'",
+        "b": "'By using the .click() method.'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the 'eq()' method used for in jQuery?",
+        "a": "'It returns the element at the specified index in a jQuery collection.'",
+        "b": "'It checks whether the element is at the first index in the collection.'",
+        "correct": "a"
+    },
+    {
+        "name": "How do you check if an element has a specific class in jQuery?",
+        "a": "'By using the .hasClass() method.'",
+        "b": "'By using the .is() method.'",
+        "correct": "a"
+    },
+    {
+        "name": "Which jQuery method is used to stop an animation?",
+        "a": "'stop()'",
+        "b": "'pause()'",
+        "correct": "a"
+    },
+    {
+        "name": "How can you change the CSS property of an element in jQuery?",
+        "a": "'By using the .css() method.'",
+        "b": "'By using the .style() method.'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the purpose of the 'append()' method in jQuery?",
+        "a": "'It appends content to the end of the selected element.'",
+        "b": "'It inserts content at the beginning of the selected element.'",
+        "correct": "a"
+    },
+    {
+        "name": "How do you select all input elements in a form using jQuery?",
+        "a": "'$('input')'",
+        "b": "'$('form input')'",
+        "correct": "b"
+    },
+    {
+        "name": "What does the 'val()' method do in jQuery?",
+        "a": "'It gets or sets the value of form elements.'",
+        "b": "'It changes the background color of an element.'",
+        "correct": "a"
+    },
+    {
+        "name": "How do you prevent the default action of an event in jQuery?",
+        "a": "'By using the .preventDefault() method.'",
+        "b": "'By using the .stopPropagation() method.'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the function of the 'fadeTo()' method in jQuery?",
+        "a": "'It fades an element to a specified opacity.'",
+        "b": "'It animates the element to a specific height.'",
+        "correct": "a"
+    },
+    {
+        "name": "How can you delay an action in jQuery?",
+        "a": "'By using the .delay() method.'",
+        "b": "'By using the .timeout() method.'",
+        "correct": "a"
+    },
+    {
+        "name": "Which method is used to traverse through the DOM to find an element's child in jQuery?",
+        "a": "'children()'",
+        "b": "'parent()'",
+        "correct": "b"
+    },
+    {
+        "name": "What does the 'fadeIn()' method do in jQuery?",
+        "a": "'It fades in the element by gradually changing its opacity to 1.'",
+        "b": "'It increases the size of the element.'",
+        "correct": "a"
+    },
+    {
+        "name": "How can you find an element’s next sibling in jQuery?",
+        "a": "'By using the .next() method.'",
+        "b": "'By using the .previous() method.'",
+        "correct": "a"
+    },
+    {
+        "name": "What method in jQuery is used to animate an element's width?",
+        "a": "'animate()'",
+        "b": "'width()'",
+        "correct": "b"
+    },
+    {
+        "name": "How can you get the index of an element in a jQuery collection?",
+        "a": "'By using the .index() method.'",
+        "b": "'By using the .position() method.'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the purpose of the 'each()' function in jQuery?",
+        "a": "'It allows you to loop through a jQuery collection and apply a function to each element.'",
+        "b": "'It checks if the elements in the collection are of the same type.'",
+        "correct": "b"
+    },
+    {
+        "name": "How do you check if an element is hidden in jQuery?",
+        "a": "'By using the .is(':hidden') selector.'",
+        "b": "'By using the .hidden() method.'",
+        "correct": "a"
+    },
+    {
+        "name": "Which method in jQuery is used to show a hidden element?",
+        "a": "'show()'",
+        "b": "'reveal()'",
+        "correct": "a"
+    },
+    {
+        "name": "What is the function of the 'attr()' method in jQuery?",
+        "a": "'It gets or sets the value of an attribute on the selected element.'",
+        "b": "'It removes an attribute from the selected element.'",
+        "correct": "b"
+    },
+    {
+        "name": "How can you find the parent of an element in jQuery?",
+        "a": "'By using the .parent() method.'",
+        "b": "'By using the .children() method.'",
+        "correct": "b"
+    },
+    {
+        "name": "What is the purpose of the 'toggleClass()' method in jQuery?",
+        "a": "'It adds or removes a class from an element based on its current state.'",
+        "b": "'It applies a random class to an element.'",
+        "correct": "a"
+    },
+    {
+        "name": "Which method is used to bind multiple event handlers in jQuery?",
+        "a": "'on()'",
+        "b": "'bind()'",
+        "correct": "b"
+    },
+    {
+        "name": "What does the 'delay()' method do in jQuery?",
+        "a": "'It sets a delay before an action is executed.'",
+        "b": "'It pauses the animation of an element.'",
+        "correct": "b"
+    },
+    {
+        "name": "How can you trigger an event manually in jQuery?",
+        "a": "'By using the .trigger() method.'",
+        "b": "'By using the .call() method.'",
+        "correct": "a"
+    },
+    {
+        "name": "Which method is used to get or set HTML content of an element in jQuery?",
+        "a": "'html()'",
+        "b": "'text()'",
+        "correct": "b"
+    }
+]

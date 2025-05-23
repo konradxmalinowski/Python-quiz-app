@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Co to jest model MVC w projektowaniu aplikacji?",
+    "a": "Model reprezentujący dane, widok jako interfejs użytkownika i kontroler zarządzający logiką.",
+    "b": "Metoda wersjonowania kodu źródłowego aplikacji.",
+    "correct": "a"
+  },
+  {
+    "name": "Które narzędzie służy do zarządzania zależnościami w projekcie JavaScript?",
+    "a": "Git",
+    "b": "npm",
+    "correct": "b"
+  },
+  {
+    "name": "Co oznacza skrót API w kontekście programowania?",
+    "a": "Application Programming Interface",
+    "b": "Advanced Programming Instruction",
+    "correct": "a"
+  },
+  {
+    "name": "Jaka jest główna zaleta użycia relacyjnej bazy danych?",
+    "a": "Szybkość zapisu danych w formacie tekstowym.",
+    "b": "Struktura tabelaryczna i możliwość definiowania relacji między danymi.",
+    "correct": "b"
+  },
+  {
+    "name": "Które z poniższych jest językiem zapytań do baz danych?",
+    "a": "SQL",
+    "b": "HTML",
+    "correct": "a"
+  },
+  {
+    "name": "Co to jest test jednostkowy?",
+    "a": "Test weryfikujący całą aplikację w środowisku produkcyjnym.",
+    "b": "Test sprawdzający działanie pojedynczej funkcji lub modułu aplikacji.",
+    "correct": "b"
+  },
+  {
+    "name": "Jakie narzędzie służy do wersjonowania kodu?",
+    "a": "Git",
+    "b": "Docker",
+    "correct": "a"
+  },
+  {
+    "name": "Co oznacza zasada DRY w programowaniu?",
+    "a": "Develop Rapidly Yourself - rozwijaj szybko samodzielnie.",
+    "b": "Don't Repeat Yourself - nie powtarzaj kodu.",
+    "correct": "b"
+  },
+  {
+    "name": "Która metoda HTTP służy do pobierania danych z serwera?",
+    "a": "GET",
+    "b": "POST",
+    "correct": "a"
+  },
+  {
+    "name": "Co to jest JSON?",
+    "a": "Język programowania do tworzenia aplikacji webowych.",
+    "b": "Format wymiany danych oparty na tekście.",
+    "correct": "b"
+  },
+  {
+    "name": "Jakie jest główne zadanie frameworka w projektowaniu aplikacji?",
+    "a": "Ułatwienie i przyspieszenie procesu разработки poprzez gotowe struktury i narzędzia.",
+    "b": "Zastąpienie programisty w pisaniu kodu.",
+    "correct": "a"
+  },
+  {
+    "name": "Które z poniższych jest frameworkiem JavaScript do tworzenia interfejsów użytkownika?",
+    "a": "Node.js",
+    "b": "React",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest ORM w kontekście baz danych?",
+    "a": "Object-Relational Mapping - mapowanie obiektów na relacje w bazie danych.",
+    "b": "Organized Resource Management - zarządzanie zasobami aplikacji.",
+    "correct": "a"
+  },
+  {
+    "name": "Które narzędzie służy do automatycznego testowania aplikacji webowych?",
+    "a": "Photoshop",
+    "b": "Selenium",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest konteneryzacja w kontekście aplikacji?",
+    "a": "Używanie narzędzi takich jak Docker do izolowania aplikacji i jej zależności.",
+    "b": "Proces dzielenia aplikacji na mniejsze moduły w kodzie.",
+    "correct": "a"
+  },
+  {
+    "name": "Jakie jest zastosowanie pliku `package.json` w projekcie Node.js?",
+    "a": "Definiuje strukturę bazy danych aplikacji.",
+    "b": "Przechowuje informacje o projekcie i jego zależnościach.",
+    "correct": "b"
+  },
+  {
+    "name": "Co oznacza skrót CRUD w odniesieniu do aplikacji?",
+    "a": "Create, Read, Update, Delete - podstawowe operacje na danych.",
+    "b": "Code, Run, Update, Deploy - cykl życia aplikacji.",
+    "correct": "a"
+  },
+  {
+    "name": "Który protokół jest najczęściej używany do komunikacji w aplikacjach webowych?",
+    "a": "FTP",
+    "b": "HTTP/HTTPS",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest refaktoryzacja kodu?",
+    "a": "Proces poprawiania struktury kodu bez zmiany jego funkcjonalności.",
+    "b": "Usuwanie kodu w celu zmniejszenia rozmiaru aplikacji.",
+    "correct": "a"
+  },
+  {
+    "name": "Które z poniższych jest biblioteką do testowania w JavaScript?",
+    "a": "Bootstrap",
+    "b": "Jest",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest endpoint w API?",
+    "a": "Specyficzny adres URL, pod którym dostępna jest funkcja API.",
+    "b": "Punkt końcowy w kodzie źródłowym aplikacji.",
+    "correct": "a"
+  },
+  {
+    "name": "Jakie jest zadanie funkcji `fetch()` w JavaScript?",
+    "a": "Tworzenie nowych elementów w DOM.",
+    "b": "Wykonywanie asynchronicznych żądań HTTP.",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest responsive web design?",
+    "a": "Projektowanie stron dostosowujących się do różnych rozmiarów ekranów.",
+    "b": "Tworzenie aplikacji działających tylko na urządzeniach mobilnych.",
+    "correct": "a"
+  },
+  {
+    "name": "Które narzędzie służy do zarządzania zadaniami w projektach programistycznych?",
+    "a": "MySQL",
+    "b": "Jira",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest middleware w aplikacjach webowych?",
+    "a": "Oprogramowanie pośredniczące między różnymi warstwami aplikacji.",
+    "b": "Biblioteka do zarządzania bazami danych.",
+    "correct": "a"
+  },
+  {
+    "name": "Które z poniższych jest metodą Agile?",
+    "a": "Waterfall",
+    "b": "Scrum",
+    "correct": "b"
+  },
+  {
+    "name": "Co oznacza zasada KISS w programowaniu?",
+    "a": "Keep It Simple, Stupid - utrzymuj prostotę.",
+    "b": "Keep It Safe and Secure - dbaj o bezpieczeństwo.",
+    "correct": "a"
+  },
+  {
+    "name": "Jakie jest zastosowanie pliku `.gitignore`?",
+    "a": "Przechowuje konfigurację projektu Git.",
+    "b": "Określa pliki i foldery, które Git powinien ignorować.",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest WebSocket?",
+    "a": "Protokół umożliwiający dwukierunkową komunikację w czasie rzeczywistym.",
+    "b": "Biblioteka do manipulacji elementami DOM.",
+    "correct": "a"
+  },
+  {
+    "name": "Które z poniższych jest bazą danych NoSQL?",
+    "a": "PostgreSQL",
+    "b": "MongoDB",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest CI/CD w kontekście programowania?",
+    "a": "Continuous Integration/Continuous Deployment - automatyczne budowanie i wdrażanie aplikacji.",
+    "b": "Code Inspection/Code Debugging - inspekcja i debugowanie kodu.",
+    "correct": "a"
+  },
+  {
+    "name": "Jakie jest zadanie funkcji `try...catch` w JavaScript?",
+    "a": "Tworzenie pętli w aplikacji.",
+    "b": "Obsługa błędów w kodzie.",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest prototyp w JavaScript?",
+    "a": "Mechanizm dziedziczenia właściwości i metod między obiektami.",
+    "b": "Sposób definiowania zmiennych globalnych.",
+    "correct": "a"
+  },
+  {
+    "name": "Które narzędzie służy do debugowania aplikacji webowych?",
+    "a": "Notepad++",
+    "b": "Chrome DevTools",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest SPA (Single Page Application)?",
+    "a": "Aplikacja webowa ładująca się raz i dynamicznie aktualizująca zawartość.",
+    "b": "Aplikacja działająca tylko na jednej stronie serwera.",
+    "correct": "a"
+  },
+  {
+    "name": "Jakie jest zastosowanie CSS w projektowaniu aplikacji?",
+    "a": "Zarządzanie logiką aplikacji.",
+    "b": "Stylizacja interfejsu użytkownika.",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest środowisko uruchomieniowe w kontekście aplikacji?",
+    "a": "Zbiór bibliotek i narzędzi potrzebnych do działania aplikacji.",
+    "b": "Kod źródłowy aplikacji zapisany w pliku wykonywalnym.",
+    "correct": "a"
+  },
+  {
+    "name": "Które z poniższych jest biblioteką do pracy z danymi w JavaScript?",
+    "a": "jQuery",
+    "b": "Lodash",
+    "correct": "b"
+  },
+  {
+    "name": "Co oznacza termin 'frontend' w programowaniu?",
+    "a": "Część aplikacji odpowiedzialna za interfejs użytkownika.",
+    "b": "Logika biznesowa działająca na serwerze.",
+    "correct": "a"
+  },
+  {
+    "name": "Jakie jest zadanie serwera w aplikacji webowej?",
+    "a": "Wyświetlanie interfejsu użytkownika w przeglądarce.",
+    "b": "Przetwarzanie żądań klienta i dostarczanie odpowiedzi.",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest funkcja asynchroniczna w JavaScript?",
+    "a": "Funkcja zwracająca Promise i umożliwiająca użycie await.",
+    "b": "Funkcja wykonywana natychmiast po jej zdefiniowaniu.",
+    "correct": "a"
+  },
+  {
+    "name": "Które narzędzie służy do budowania aplikacji w środowisku Node.js?",
+    "a": "Webpack",
+    "b": "Excel",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest REST API?",
+    "a": "Architektura API oparta na metodach HTTP i zasobach.",
+    "b": "Protokół do szyfrowania danych w aplikacjach.",
+    "correct": "a"
+  },
+  {
+    "name": "Jakie jest zastosowanie klucza głównego w bazie danych?",
+    "a": "Szyfrowanie rekordów w tabeli.",
+    "b": "Unikalna identyfikacja rekordów w tabeli.",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest TypeScript?",
+    "a": "Nadzbiór JavaScript z typowaniem statycznym.",
+    "b": "Biblioteka do manipulacji DOM.",
+    "correct": "a"
+  },
+  {
+    "name": "Które z poniższych jest frameworkiem backendowym?",
+    "a": "Angular",
+    "b": "Express.js",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest unit testing framework?",
+    "a": "Narzędzie do pisania i uruchamiania testów jednostkowych.",
+    "b": "Metoda projektowania interfejsów użytkownika.",
+    "correct": "a"
+  },
+  {
+    "name": "Jakie jest zastosowanie localStorage w przeglądarce?",
+    "a": "Przechowywanie tymczasowych danych sesji.",
+    "b": "Trwałe przechowywanie danych po stronie klienta.",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest diagram UML?",
+    "a": "Graficzne przedstawienie struktury i zachowań systemu.",
+    "b": "Język programowania do projektowania baz danych.",
+    "correct": "a"
+  },
+  {
+    "name": "Które narzędzie służy do automatycznego formatowania kodu?",
+    "a": "Prettier",
+    "b": "GIMP",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest SSR (Server-Side Rendering)?",
+    "a": "Renderowanie strony po stronie serwera przed wysłaniem do klienta.",
+    "b": "Renderowanie aplikacji w przeglądarce po stronie klienta.",
+    "correct": "a"
+  },
+  {
+    "name": "Jakie jest zadanie funkcji `map()` w JavaScript?",
+    "a": "Filtrowanie elementów tablicy.",
+    "b": "Tworzenie nowej tablicy na podstawie istniejącej.",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest backlog w metodologii Scrum?",
+    "a": "Lista zadań do wykonania w projekcie.",
+    "b": "Dokumentacja techniczna aplikacji.",
+    "correct": "a"
+  },
+  {
+    "name": "Które z poniższych jest narzędziem do monitorowania aplikacji?",
+    "a": "WordPress",
+    "b": "New Relic",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest dependency injection?",
+    "a": "Wstrzykiwanie zależności do komponentów w celu zwiększenia modularności.",
+    "b": "Proces instalowania bibliotek w projekcie.",
+    "correct": "a"
+  },
+  {
+    "name": "Jakie jest zastosowanie klucza obcego w bazie danych?",
+    "a": "Tworzenie powiązań między tabelami.",
+    "b": "Zabezpieczanie danych przed modyfikacją.",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest PWA (Progressive Web App)?",
+    "a": "Aplikacja webowa z funkcjami aplikacji natywnych.",
+    "b": "Protokół wymiany danych między serwerem a klientem.",
+    "correct": "a"
+  },
+  {
+    "name": "Które z poniższych jest biblioteką do animacji w JavaScript?",
+    "a": "GSAP",
+    "b": "SQLite",
+    "correct": "b"
+  },
+  {
+    "name": "Co to jest Event Loop w JavaScript?",
+    "a": "Mechanizm zarządzający asynchronicznymi operacjami.",
+    "b": "Pętla iterująca po elementach DOM.",
+    "correct": "a"
+  },
+  {
+    "name": "Jakie jest zastosowanie tokenu JWT?",
+    "a": "Przechowywanie danych sesji użytkownika.",
+    "b": "Uwierzytelnianie i autoryzacja w aplikacjach.",
+    "correct": "b"
+  }
+]
