@@ -11,6 +11,38 @@ Quiz App is a modern, user-friendly console application for solving quizzes in v
 
 ---
 
+### 📚 Used Libraries
+
+This project uses only Python standard libraries:
+
+- **sqlite3**  
+  Handles the local SQLite database where users, questions, and quiz statistics are stored.
+
+- **json**  
+  Loads and saves questions in JSON files (for importing questions and adding new ones via the admin panel).
+
+- **os**  
+  File and path operations (e.g., checking if question files exist).
+
+- **hashlib**  
+  Hashes user passwords using the SHA-256 algorithm.
+
+- **getpass**  
+  Securely collects passwords from the user (without displaying them on the screen).
+
+- **random**  
+  Randomly selects quiz questions and generates random usernames and passwords.
+
+- **string**  
+  Generates random characters for usernames and passwords.
+
+- **sys**  
+  Handles program exit (`exit`).
+
+No external libraries or additional packages are required.
+
+---
+
 ### ✨ Features
 
 - 🔐 **User registration and login**  
@@ -51,7 +83,7 @@ Clone or download this repository and make sure you have the following structure
 QuizApp/
 ├── quiz_app.py
 ├── init_db.py
-├── Pytania/
+├── Questions/
 │   ├── quiz-inf.02.json
 │   ├── quiz-inf.03.json
 │   ├── quiz-inf.04.json
@@ -90,19 +122,19 @@ python quiz_app.py
 
 ---
 
-### 📦 Dodawanie własnych pytań
+### 📦 Adding Your Own Questions
 
-#### Opcja 1: Przez panel admina w aplikacji
+#### Option 1: Via the Admin Panel in the Application
 
-1. Uruchom aplikację i wybierz opcję **Panel admina** z menu głównego.
-2. Podaj hasło administratora (`admin123` domyślnie).
-3. Postępuj zgodnie z instrukcjami – podaj nazwę zestawu (np. `quiz-inf.02`), treść pytania, odpowiedzi `a` i `b` oraz wskaż poprawną odpowiedź (`a` lub `b`).
-4. Pytanie zostanie automatycznie zapisane do odpowiedniego pliku JSON w folderze `Pytania/`.
+1. Run the application and select **Admin panel** from the main menu.
+2. Enter the administrator password (`admin123` by default).
+3. Follow the instructions – provide the set name (e.g., `quiz-inf.02`), question text, answers `a` and `b`, and indicate the correct answer (`a` or `b`).
+4. The question will be automatically saved to the appropriate JSON file in the `Pytania/` folder.
 
-#### Opcja 2: Ręcznie w pliku JSON
+#### Option 2: Manually in a JSON File
 
-1. Dodaj nowy plik JSON do katalogu `Pytania/`.  
-   Plik powinien być tablicą obiektów, np.:
+1. Add a new JSON file to the `Pytania/` directory.  
+   The file should be an array of objects, for example:
 
    ```json
    [
@@ -116,14 +148,14 @@ python quiz_app.py
    ]
    ```
 
-2. Dodaj nazwę pliku do listy `quizes` w pliku `init_db.py`.
-3. Uruchom ponownie `python init_db.py`, aby zaimportować nowe pytania do bazy.
+2. Add the file name to the `quizes` list in the `init_db.py` file.
+3. Run `python init_db.py` again to import the new questions into the database.
 
 ---
 
-**Wskazówka:**  
-Możesz dodawać pytania zarówno przez panel admina, jak i ręcznie – oba sposoby są równoważne.  
-Pytania muszą mieć pola: `name`, `a`, `b`, `correct` (`a` lub `b`) oraz `set` (nazwa zestawu).
+**Tip:**  
+You can add questions either via the admin panel or manually – both methods are equivalent.  
+Questions must have the fields: `name`, `a`, `b`, `correct` (`a` or `b`), and `set` (set name).
 
 ### 🛠️ Customization
 

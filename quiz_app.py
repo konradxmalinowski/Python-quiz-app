@@ -274,7 +274,7 @@ def show_instructions():
 def add_question_to_file():
     print("\n[Dodaj pytanie do zestawu]")
     set_name = input_with_exit("Nazwa zestawu (np. quiz-inf.02): ").strip()
-    file_path = f"Pytania/{set_name}.json"
+    file_path = f"Questions/{set_name}.json"
     question = input_with_exit("Treść pytania: ").strip()
     option_a = input_with_exit("Odpowiedź a: ").strip()
     option_b = input_with_exit("Odpowiedź b: ").strip()
