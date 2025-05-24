@@ -90,10 +90,19 @@ python quiz_app.py
 
 ---
 
-### 📦 Adding Your Own Questions
+### 📦 Dodawanie własnych pytań
 
-1. Add a new JSON file to the `Pytania/` directory.  
-   The file should be an array of objects, for example:
+#### Opcja 1: Przez panel admina w aplikacji
+
+1. Uruchom aplikację i wybierz opcję **Panel admina** z menu głównego.
+2. Podaj hasło administratora (`admin123` domyślnie).
+3. Postępuj zgodnie z instrukcjami – podaj nazwę zestawu (np. `quiz-inf.02`), treść pytania, odpowiedzi `a` i `b` oraz wskaż poprawną odpowiedź (`a` lub `b`).
+4. Pytanie zostanie automatycznie zapisane do odpowiedniego pliku JSON w folderze `Pytania/`.
+
+#### Opcja 2: Ręcznie w pliku JSON
+
+1. Dodaj nowy plik JSON do katalogu `Pytania/`.  
+   Plik powinien być tablicą obiektów, np.:
 
    ```json
    [
@@ -101,15 +110,20 @@ python quiz_app.py
        "name": "What is the capital of France?",
        "a": "Berlin",
        "b": "Paris",
-       "correct": "b"
+       "correct": "b",
+       "set": "quiz-geography"
      }
    ]
    ```
 
-2. Add the filename to the `quizes` list in `init_db.py`.
-3. Re-run `python init_db.py` to import your new questions.
+2. Dodaj nazwę pliku do listy `quizes` w pliku `init_db.py`.
+3. Uruchom ponownie `python init_db.py`, aby zaimportować nowe pytania do bazy.
 
 ---
+
+**Wskazówka:**  
+Możesz dodawać pytania zarówno przez panel admina, jak i ręcznie – oba sposoby są równoważne.  
+Pytania muszą mieć pola: `name`, `a`, `b`, `correct` (`a` lub `b`) oraz `set` (nazwa zestawu).
 
 ### 🛠️ Customization
 

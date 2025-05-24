@@ -341,7 +341,7 @@ def main():
             break
         elif choice == '4':
             admin_password = getpass_with_exit("Podaj hasło admina: ")
-            if admin_password == "admin123":  # Możesz zmienić hasło
+            if admin_password == "admin123":
                 add_question_to_file()
             else:
                 print("❌ Błędne hasło admina.")
