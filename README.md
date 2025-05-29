@@ -45,25 +45,25 @@ No external libraries or additional packages are required.
 
 ### ✨ Features
 
-- 🔐 **User registration and login**  
+-  **User registration and login**  
   Secure account creation with password hashing.
 
-- 🎲 **Random questions**  
+-  **Random questions**  
   Get 10 random questions from a selected set or from all available sets.
 
-- 📚 **Multiple question sets**  
+-  **Multiple question sets**  
   Easily add your own JSON question sets in the `Pytania/` folder.
 
-- 📊 **User statistics**  
+-  **User statistics**  
   Track your quiz history, average score, and best result.
 
-- 📝 **Password management**  
+-  **Password management**  
   Change your password at any time.
 
-- 💾 **Local SQLite database**  
+-  **Local SQLite database**  
   All user data and quiz results are stored locally.
 
-- 🖥️ **Simple console interface**  
+- 🖥 **Simple console interface**  
   Intuitive navigation and clear instructions.
 
 ---
