@@ -101,7 +101,7 @@ python init_db.py
 ```
 
 You should see:  
-`✅ Zaimportowano pytania.`
+`✅ Pytania zaimportowane (nadpisane).`
 
 #### 4. Run the application
 
@@ -133,7 +133,7 @@ python quiz_app.py
 
 #### Option 2: Manually in a JSON File
 
-1. Add a new JSON file to the `Pytania/` directory.  
+1. Add a new JSON file to the `Questions/` directory.  
    The file should be an array of objects, for example:
 
    ```json
