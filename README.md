@@ -170,6 +170,7 @@ Questions must have the fields: `name`, `a`, `b`, `correct` (`a` or `b`), and `s
 - Type `exit` to quit the application.
 - Type `menu` during a quiz to return to the user panel without finishing the quiz.
 - All passwords are securely hashed using SHA-256.
+- Admin Panel password is: admin123
 
 ---
 
