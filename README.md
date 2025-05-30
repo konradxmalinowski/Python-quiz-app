@@ -52,7 +52,7 @@ No external libraries or additional packages are required.
   Get 10 random questions from a selected set or from all available sets.
 
 -  **Multiple question sets**  
-  Easily add your own JSON question sets in the `Pytania/` folder.
+  Easily add your own JSON question sets in the `Questions/` folder.
 
 -  **User statistics**  
   Track your quiz history, average score, and best result.
