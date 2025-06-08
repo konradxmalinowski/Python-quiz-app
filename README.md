@@ -3,13 +3,13 @@
 ![SQLite](https://img.shields.io/badge/SQLite-quiz--db-lightgrey?logo=sqlite)
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 
----
+
 
 ## Quiz App – Console Quiz Application
 
 Quiz App is a modern, user-friendly console application for solving quizzes in various fields (IT, languages, and more). It supports user registration, login, random question selection, statistics, and password management. All data is stored locally in a SQLite database.
 
----
+
 
 ### 📚 Used Libraries
 
@@ -41,7 +41,7 @@ This project uses only Python standard libraries:
 
 No external libraries or additional packages are required.
 
----
+
 
 ### ✨ Features
 
@@ -66,7 +66,7 @@ No external libraries or additional packages are required.
 - 🖥 **Simple console interface**  
   Intuitive navigation and clear instructions.
 
----
+
 
 ### 🚀 Getting Started
 
@@ -109,7 +109,7 @@ You should see:
 python quiz_app.py
 ```
 
----
+
 
 ### 🕹️ Usage
 
@@ -120,7 +120,7 @@ python quiz_app.py
 - **Statistics**: View your quiz history, average score, and best result.
 - **Change Password**: Update your password securely.
 
----
+
 
 ### 📦 Adding Your Own Questions
 
@@ -151,7 +151,7 @@ python quiz_app.py
 2. Add the file name to the `quizes` list in the `init_db.py` file.
 3. Run `python init_db.py` again to import the new questions into the database.
 
----
+
 
 **Tip:**  
 You can add questions either via the admin panel or manually – both methods are equivalent.  
@@ -163,7 +163,7 @@ Questions must have the fields: `name`, `a`, `b`, `correct` (`a` or `b`), and `s
 - **Database**: All data is stored in `quiz.db` (SQLite). You can browse it with any SQLite viewer.
 - **Extending**: The code is modular and easy to extend with new features (e.g., more answer options, categories, etc.).
 
----
+
 
 ### 💡 Tips
 
@@ -172,7 +172,7 @@ Questions must have the fields: `name`, `a`, `b`, `correct` (`a` or `b`), and `s
 - All passwords are securely hashed using SHA-256.
 - Admin Panel password is: admin123
 
----
+
 
 ### 📄 License
 
