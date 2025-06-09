@@ -1,17 +1,10 @@
-# 📝 Quiz App
-
-![SQLite](https://img.shields.io/badge/SQLite-quiz--db-lightgrey?logo=sqlite)
-![MIT License](https://img.shields.io/badge/license-MIT-green)
-
-
-
-## Quiz App – Console Quiz Application
+# Quiz App
 
 Quiz App is a modern, user-friendly console application for solving quizzes in various fields (IT, languages, and more). It supports user registration, login, random question selection, statistics, and password management. All data is stored locally in a SQLite database.
 
 
 
-### 📚 Used Libraries
+### Used Libraries
 
 This project uses only Python standard libraries:
 
@@ -43,7 +36,7 @@ No external libraries or additional packages are required.
 
 
 
-### ✨ Features
+### Features
 
 -  **User registration and login**  
   Secure account creation with password hashing.
@@ -63,12 +56,12 @@ No external libraries or additional packages are required.
 -  **Local SQLite database**  
   All user data and quiz results are stored locally.
 
-- 🖥 **Simple console interface**  
+-  **Simple console interface**  
   Intuitive navigation and clear instructions.
 
 
 
-### 🚀 Getting Started
+### Getting Started
 
 #### 1. Requirements
 
@@ -111,7 +104,7 @@ python quiz_app.py
 
 
 
-### 🕹️ Usage
+### Usage
 
 - **Register**: Create a new user account (username and password can be generated automatically).
 - **Login**: Log in with your credentials.
@@ -122,7 +115,7 @@ python quiz_app.py
 
 
 
-### 📦 Adding Your Own Questions
+### Adding Your Own Questions
 
 #### Option 1: Via the Admin Panel in the Application
 
@@ -157,7 +150,7 @@ python quiz_app.py
 You can add questions either via the admin panel or manually – both methods are equivalent.  
 Questions must have the fields: `name`, `a`, `b`, `correct` (`a` or `b`), and `set` (set name).
 
-### 🛠️ Customization
+### Customization
 
 - **Question sets**: Organize questions by topic or language using separate JSON files.
 - **Database**: All data is stored in `quiz.db` (SQLite). You can browse it with any SQLite viewer.
@@ -165,7 +158,7 @@ Questions must have the fields: `name`, `a`, `b`, `correct` (`a` or `b`), and `s
 
 
 
-### 💡 Tips
+### Tips
 
 - Type `exit` to quit the application.
 - Type `menu` during a quiz to return to the user panel without finishing the quiz.
